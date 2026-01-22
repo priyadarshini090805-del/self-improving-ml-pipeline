@@ -1,0 +1,142 @@
+[
+  {
+    "pipeline": {
+      "preprocessing": [
+        "scale"
+      ],
+      "model": "linear_model",
+      "hyperparameters": {
+        "learning_rate": 0.15000000000000002
+      },
+      "seed": 32098
+    },
+    "hash": "23e87fa1f1155e312895cd8856c23e5501f1dcbbae3fa8078a8fea3ea72b1b4c",
+    "score": 1.0
+  },
+  {
+    "pipeline": {
+      "preprocessing": [
+        "scale"
+      ],
+      "model": "linear_model",
+      "hyperparameters": {
+        "learning_rate": 0.037500000000000006
+      },
+      "seed": 12280
+    },
+    "hash": "0aa0db5afb4394c7a4777fac8039ecccd52b582f431465da01231757c590054a",
+    "score": 1.0
+  },
+  {
+    "pipeline": {
+      "preprocessing": [
+        "scale"
+      ],
+      "model": "linear_model",
+      "hyperparameters": {
+        "learning_rate": 0.05625000000000001
+      },
+      "seed": 28893
+    },
+    "hash": "5222f942b95c361e9c047c827c24bffbdf4bbae816798d152d36f56463b9b87d",
+    "score": 1.0
+  },
+  {
+    "pipeline": {
+      "preprocessing": [
+        "scale"
+      ],
+      "model": "linear_model",
+      "hyperparameters": {
+        "learning_rate": 0.22500000000000003
+      },
+      "seed": 32098
+    },
+    "hash": "46980127de97a0726bde22b774b924924f1fd1e5f6923709ac6e9799fd4e8742",
+    "score": 1.0
+  },
+  {
+    "pipeline": {
+      "preprocessing": [
+        "scale"
+      ],
+      "model": "linear_model",
+      "hyperparameters": {
+        "learning_rate": 0.3375
+      },
+      "seed": 20379
+    },
+    "hash": "05b39623f31f7f731cb57c071f0e2e44c9abc08a6fcb1e7bb000856a9d12a940",
+    "score": 1.0
+  },
+  {
+    "pipeline": {
+      "preprocessing": [
+        "scale"
+      ],
+      "model": "linear_model",
+      "hyperparameters": {
+        "learning_rate": 0.5062500000000001
+      },
+      "seed": 12676
+    },
+    "hash": "98558c6ebe40b12380bd546d71724debff67a135e2675677c7280cfd6e85f7a2",
+    "score": 1.0
+  },
+  {
+    "pipeline": {
+      "preprocessing": [
+        "scale"
+      ],
+      "model": "linear_model",
+      "hyperparameters": {
+        "learning_rate": 0.25312500000000004
+      },
+      "seed": 72357
+    },
+    "hash": "37b244620c1a9d896cec9ec34ef6597fcdeb416be4040f7b9b885bd7cedd37d0",
+    "score": 1.0
+  },
+  {
+    "pipeline": {
+      "preprocessing": [
+        "scale"
+      ],
+      "model": "linear_model",
+      "hyperparameters": {
+        "learning_rate": 0.12656250000000002
+      },
+      "seed": 92349
+    },
+    "hash": "7356793056f907a9846d91f68d5952a1a6f19b5176a36f41d522e7c4db8a9922",
+    "score": 1.0
+  },
+  {
+    "pipeline": {
+      "preprocessing": [
+        "scale"
+      ],
+      "model": "linear_model",
+      "hyperparameters": {
+        "learning_rate": 0.05625000000000001
+      },
+      "seed": 46566
+    },
+    "hash": "f5c0ff151192c6a6936727ee2eca8b3393320a1e42505395a8b7dbfdfc280cc0",
+    "score": 1.0
+  },
+  {
+    "pipeline": {
+      "preprocessing": [
+        "scale"
+      ],
+      "model": "linear_model",
+      "hyperparameters": {
+        "learning_rate": 0.028125000000000004
+      },
+      "seed": 50432
+    },
+    "hash": "19d7bee73b8861cfe3fa4f70de580192a468fb60f9510b8de0774c39a08c0044",
+    "score": 1.0
+  }
+]

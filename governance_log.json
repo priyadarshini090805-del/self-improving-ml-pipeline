@@ -1,0 +1,1928 @@
+[
+  {
+    "timestamp": 1768139950.5647993,
+    "pipeline_hash": "5bd3982cf4ddbcc38d2888aaf15ce23e7c4b5ad6635a95509a33c2dcb4dcd3aa",
+    "decision": "seeded",
+    "reason": "Loaded from meta-memory"
+  },
+  {
+    "timestamp": 1768139950.5784233,
+    "pipeline_hash": "665864c1c76e2d7102154ebf19ad87e26cdbd803b5442954adfac9651f3abc5a",
+    "decision": "seeded",
+    "reason": "Loaded from meta-memory"
+  },
+  {
+    "timestamp": 1768139950.5917044,
+    "pipeline_hash": "50625564be4e17141b4bfe8abb416ed7dec8f1740f2cd8f24173aca94d5026b8",
+    "decision": "seeded",
+    "reason": "Loaded from meta-memory"
+  },
+  {
+    "timestamp": 1768139950.606535,
+    "pipeline_hash": "98d6a2262c41188ac9d920fbe77022987a9ba207322d2e0f0329730d6cfc777a",
+    "decision": "seeded",
+    "reason": "Loaded from meta-memory"
+  },
+  {
+    "timestamp": 1768139950.616854,
+    "pipeline_hash": "e33e8ba4de28b7233d1c83e14146e3b734a7f72428e9414f2c3bee1c6d3d76af",
+    "decision": "seeded",
+    "reason": "Loaded from meta-memory"
+  },
+  {
+    "timestamp": 1768139950.6318235,
+    "pipeline_hash": "3c0ede3a8f2f529459d636e18bbec76aa9ca365c9ca2b61425d75e0544af6000",
+    "decision": "seeded",
+    "reason": "Loaded from meta-memory"
+  },
+  {
+    "timestamp": 1768139950.6554909,
+    "pipeline_hash": "23461442a83c2ac2603d7ed08d4e2cf930026a4610ecb67b5cafb55368a34e56",
+    "decision": "seeded",
+    "reason": "Loaded from meta-memory"
+  },
+  {
+    "timestamp": 1768139950.6715844,
+    "pipeline_hash": "fe294a25488b1c96271bd630c1740b393b9a6cb9de0e7a7b61ff2f77e3ad8b64",
+    "decision": "seeded",
+    "reason": "Loaded from meta-memory"
+  },
+  {
+    "timestamp": 1768139950.6877563,
+    "pipeline_hash": "50625564be4e17141b4bfe8abb416ed7dec8f1740f2cd8f24173aca94d5026b8",
+    "decision": "seeded",
+    "reason": "Loaded from meta-memory"
+  },
+  {
+    "timestamp": 1768139950.7034252,
+    "pipeline_hash": "7badcb70370db2c0182f43fb24682604056cb160cb06e9fdd5b377520eb30465",
+    "decision": "seeded",
+    "reason": "Loaded from meta-memory"
+  },
+  {
+    "timestamp": 1768139950.7274435,
+    "pipeline_hash": "9256c65001d17589b00159faf72eb3ccf9b5bb90bef2e2b88876ad81b2821670",
+    "decision": "accepted",
+    "reason": "score=0.9666666666666667"
+  },
+  {
+    "timestamp": 1768139950.7489202,
+    "pipeline_hash": "46980127de97a0726bde22b774b924924f1fd1e5f6923709ac6e9799fd4e8742",
+    "decision": "accepted",
+    "reason": "score=1.0"
+  },
+  {
+    "timestamp": 1768139950.7710335,
+    "pipeline_hash": "b62a9b239e8c86886fc9bf6d1e187604291fbea80a7af63b2bf3610df22ec13f",
+    "decision": "accepted",
+    "reason": "score=0.98"
+  },
+  {
+    "timestamp": 1768139950.7913752,
+    "pipeline_hash": "565dedbc413b1ef8898dda0cecb868a591138811683a84f2f55f383548ea3e12",
+    "decision": "accepted",
+    "reason": "score=0.9933333333333333"
+  },
+  {
+    "timestamp": 1768139950.8196018,
+    "pipeline_hash": "71adcb70c4d3f1e98b943f1a829e42a93a187d8ecfe2db13dab612d44fdf9aac",
+    "decision": "accepted",
+    "reason": "score=0.98"
+  },
+  {
+    "timestamp": 1768139950.845412,
+    "pipeline_hash": "db3b28b26d79119741eead654debc3a95f5f1b8ed906ea125b4349cac2757c9a",
+    "decision": "accepted",
+    "reason": "score=1.0"
+  },
+  {
+    "timestamp": 1768139950.864602,
+    "pipeline_hash": "1083f2ba278f05d0c4d1505eb3caecc035239740e95ab94c88d03e4cb28cf6cc",
+    "decision": "accepted",
+    "reason": "score=1.0"
+  },
+  {
+    "timestamp": 1768139950.8832304,
+    "pipeline_hash": "45d2e0191f17f039c71bb4f0848314921ab8749968acb1645c6e286c097fe685",
+    "decision": "accepted",
+    "reason": "score=0.9933333333333333"
+  },
+  {
+    "timestamp": 1768139950.9021292,
+    "pipeline_hash": "da4e59f2bac53569fff0b8950456b3c2e7e8694d814e1d63326cf11d540ad577",
+    "decision": "accepted",
+    "reason": "score=0.9866666666666667"
+  },
+  {
+    "timestamp": 1768139950.9214182,
+    "pipeline_hash": "a22415e27aac5588ded6f384efcefa370cd25d1171a71264555f94563dcf9a18",
+    "decision": "accepted",
+    "reason": "score=0.9933333333333333"
+  },
+  {
+    "timestamp": 1768139950.9432633,
+    "pipeline_hash": "265b71383c0e18cb293f95d9c3fc5b1e1006e39b65c46fa96868d3e1dddd65d1",
+    "decision": "accepted",
+    "reason": "score=1.0"
+  },
+  {
+    "timestamp": 1768139950.963375,
+    "pipeline_hash": "a3504883a9c568b268b4b94fc5170fc630f05e06c1371ed2a1535bfe2ba18901",
+    "decision": "accepted",
+    "reason": "score=0.98"
+  },
+  {
+    "timestamp": 1768139950.9818509,
+    "pipeline_hash": "4a1655ea7ea3f7163c1dcf9e24cc37b86d2c138452460734e88c4dee9a390579",
+    "decision": "accepted",
+    "reason": "score=0.9933333333333333"
+  },
+  {
+    "timestamp": 1768139951.003079,
+    "pipeline_hash": "c47db8436afa3e9031e60b4e29959b18d377360eae7b4e33aaf1349de1bb432d",
+    "decision": "accepted",
+    "reason": "score=0.9933333333333333"
+  },
+  {
+    "timestamp": 1768139951.0210838,
+    "pipeline_hash": "851a8a54bb9a9da9abea99529f55e71c0f87ec9bd43df962018a31ef27977f16",
+    "decision": "accepted",
+    "reason": "score=0.9866666666666667"
+  },
+  {
+    "timestamp": 1768139951.0403666,
+    "pipeline_hash": "e339d874ccc469b7d4793dcce266ffdcc670d4cd78f74ecdc91387ad86530780",
+    "decision": "accepted",
+    "reason": "score=1.0"
+  },
+  {
+    "timestamp": 1768139951.0608509,
+    "pipeline_hash": "de933fb370de09643a36b5eff0b0275372db92dc62ef0dcd112ace650841c6c6",
+    "decision": "accepted",
+    "reason": "score=1.0"
+  },
+  {
+    "timestamp": 1768139951.085744,
+    "pipeline_hash": "2704d89d2f8dc12d1ebd2b1ca9ad0f7e2b628a889375c6a01dfdeede2064599f",
+    "decision": "accepted",
+    "reason": "score=0.9866666666666667"
+  },
+  {
+    "timestamp": 1768139951.1136897,
+    "pipeline_hash": "2c165b3610ed3bec660bcb7cf7aa86857362238bcaa7900fdd47c1982004e90b",
+    "decision": "accepted",
+    "reason": "score=1.0"
+  },
+  {
+    "timestamp": 1768139951.1385386,
+    "pipeline_hash": "b78f1500337f278c84d92ed8d6287225ff4f3a33e9ffd523b685ad561ada51a3",
+    "decision": "accepted",
+    "reason": "score=1.0"
+  },
+  {
+    "timestamp": 1768139951.1664839,
+    "pipeline_hash": "d3838a47767352f6e6b46730455b9071115887ce1d07df9bcc2be2a11881fd35",
+    "decision": "accepted",
+    "reason": "score=0.9866666666666667"
+  },
+  {
+    "timestamp": 1768139951.1889973,
+    "pipeline_hash": "db0419a1a1856261260950a043913f5635e91ce9436e3033c4ce3609f167e35b",
+    "decision": "accepted",
+    "reason": "score=0.98"
+  },
+  {
+    "timestamp": 1768139951.2132273,
+    "pipeline_hash": "6344b537221a6ee51c2be439930fb24ed1664dfaff42c7ae7ccf789e2854659d",
+    "decision": "accepted",
+    "reason": "score=0.9866666666666667"
+  },
+  {
+    "timestamp": 1768139951.2364826,
+    "pipeline_hash": "2434c8a0a0c81a175e279ad4cf1566b9c51437d8f92d19d9d291728de40cfe30",
+    "decision": "accepted",
+    "reason": "score=1.0"
+  },
+  {
+    "timestamp": 1768139951.2627358,
+    "pipeline_hash": "90b2820f4885a6b3b2deccc83bdc8fa78599e70258c026ec800e685d3c0d097f",
+    "decision": "accepted",
+    "reason": "score=0.9933333333333333"
+  },
+  {
+    "timestamp": 1768139951.280511,
+    "pipeline_hash": "45700c2ed287206107a2642c16a4163ff5b0a7bc020bd37e1e72472190dd3e70",
+    "decision": "accepted",
+    "reason": "score=0.9933333333333333"
+  },
+  {
+    "timestamp": 1768139951.3024318,
+    "pipeline_hash": "a5e1d6363ee344bb9acfb33df3847ec417d1da1125438f4cbc7bd67cbf53d7d5",
+    "decision": "accepted",
+    "reason": "score=0.9933333333333333"
+  },
+  {
+    "timestamp": 1768139951.3246362,
+    "pipeline_hash": "e9db0f0e2392d77854a24199368f7e0ee900b463624fedb32d2f32171e6a8fdf",
+    "decision": "accepted",
+    "reason": "score=0.9733333333333334"
+  },
+  {
+    "timestamp": 1768139951.3502572,
+    "pipeline_hash": "dea3822c6e25c5ea09b2a8e16dcc2db7c561dc22ecf399f12658d946410de5cf",
+    "decision": "accepted",
+    "reason": "score=0.98"
+  },
+  {
+    "timestamp": 1768139951.3774579,
+    "pipeline_hash": "68ad7b9a32b6051162c775bed13848b0e09eab991d7689a5d7175c49d511a252",
+    "decision": "accepted",
+    "reason": "score=1.0"
+  },
+  {
+    "timestamp": 1768139951.4028373,
+    "pipeline_hash": "0ff61c0c94fd2343b6fcbd08b70364d8541da2b2d4e1a58c0e886d925f114167",
+    "decision": "accepted",
+    "reason": "score=0.9933333333333333"
+  },
+  {
+    "timestamp": 1768139951.4278853,
+    "pipeline_hash": "ac38e925d04e97c6c635d8d6ba9eca9c0dd3161fbca1f068a67e7d2332285b02",
+    "decision": "accepted",
+    "reason": "score=0.9933333333333333"
+  },
+  {
+    "timestamp": 1768139951.4575448,
+    "pipeline_hash": "7c96a342a9472e1a19ea104dc076fbd9a11dc507e1e895caffe2c9f50428d0d6",
+    "decision": "accepted",
+    "reason": "score=0.9666666666666667"
+  },
+  {
+    "timestamp": 1768139951.487765,
+    "pipeline_hash": "0d9d849669ac24fd4c613112b088242472d6c63dde9eb9a8f958bbfd176a35d7",
+    "decision": "accepted",
+    "reason": "score=1.0"
+  },
+  {
+    "timestamp": 1768139951.5157425,
+    "pipeline_hash": "d4ec247070b686d1aaf2d5b2233802c3508bde633e3ae38d912a030aa3e72600",
+    "decision": "accepted",
+    "reason": "score=0.9866666666666667"
+  },
+  {
+    "timestamp": 1768139951.5411613,
+    "pipeline_hash": "6d7568621432a7ad7b07106a9757e5253a5d41210e4563f8afae4dd827e41b9b",
+    "decision": "accepted",
+    "reason": "score=1.0"
+  },
+  {
+    "timestamp": 1768139951.5680478,
+    "pipeline_hash": "939ee64d80e847408d913d485b7237eb8ee24d1540b9f1ad3908e8bffdd7faa9",
+    "decision": "accepted",
+    "reason": "score=1.0"
+  },
+  {
+    "timestamp": 1768139951.5878422,
+    "pipeline_hash": "6309b3d36a92ff8cdd6be7f902665d88338ca2127b7c5da9fa12474013168ce9",
+    "decision": "accepted",
+    "reason": "score=0.9866666666666667"
+  },
+  {
+    "timestamp": 1768139951.606542,
+    "pipeline_hash": "8698fdb9e2d1dd3e20b785b326a79bec967a8438ee5474210fab92f375ec4755",
+    "decision": "accepted",
+    "reason": "score=0.9866666666666667"
+  },
+  {
+    "timestamp": 1768139951.6336865,
+    "pipeline_hash": "267dfd17b5a1317a4c0ee162b5477e0b80a314ec5f326b176527332a7c5bc899",
+    "decision": "accepted",
+    "reason": "score=0.9933333333333333"
+  },
+  {
+    "timestamp": 1768139951.6587956,
+    "pipeline_hash": "2b2150a43fd78d22238bbb90746e2fb83f59528ebf99326c2dcca44efb9dde21",
+    "decision": "accepted",
+    "reason": "score=0.9933333333333333"
+  },
+  {
+    "timestamp": 1768139951.6839283,
+    "pipeline_hash": "de04dd8b16424f79b1b7be538420b779bdba21504492e3d568b69c7509850307",
+    "decision": "accepted",
+    "reason": "score=0.9933333333333333"
+  },
+  {
+    "timestamp": 1768139951.70864,
+    "pipeline_hash": "267dfd17b5a1317a4c0ee162b5477e0b80a314ec5f326b176527332a7c5bc899",
+    "decision": "stable",
+    "reason": "No drift detected"
+  },
+  {
+    "timestamp": 1768140396.005054,
+    "pipeline_hash": "5bd3982cf4ddbcc38d2888aaf15ce23e7c4b5ad6635a95509a33c2dcb4dcd3aa",
+    "decision": "seeded",
+    "reason": "Loaded from meta-memory"
+  },
+  {
+    "timestamp": 1768140396.02497,
+    "pipeline_hash": "665864c1c76e2d7102154ebf19ad87e26cdbd803b5442954adfac9651f3abc5a",
+    "decision": "seeded",
+    "reason": "Loaded from meta-memory"
+  },
+  {
+    "timestamp": 1768140396.0447202,
+    "pipeline_hash": "50625564be4e17141b4bfe8abb416ed7dec8f1740f2cd8f24173aca94d5026b8",
+    "decision": "seeded",
+    "reason": "Loaded from meta-memory"
+  },
+  {
+    "timestamp": 1768140396.0694,
+    "pipeline_hash": "98d6a2262c41188ac9d920fbe77022987a9ba207322d2e0f0329730d6cfc777a",
+    "decision": "seeded",
+    "reason": "Loaded from meta-memory"
+  },
+  {
+    "timestamp": 1768140396.0885966,
+    "pipeline_hash": "e33e8ba4de28b7233d1c83e14146e3b734a7f72428e9414f2c3bee1c6d3d76af",
+    "decision": "seeded",
+    "reason": "Loaded from meta-memory"
+  },
+  {
+    "timestamp": 1768140396.1124415,
+    "pipeline_hash": "3c0ede3a8f2f529459d636e18bbec76aa9ca365c9ca2b61425d75e0544af6000",
+    "decision": "seeded",
+    "reason": "Loaded from meta-memory"
+  },
+  {
+    "timestamp": 1768140396.129963,
+    "pipeline_hash": "23461442a83c2ac2603d7ed08d4e2cf930026a4610ecb67b5cafb55368a34e56",
+    "decision": "seeded",
+    "reason": "Loaded from meta-memory"
+  },
+  {
+    "timestamp": 1768140396.1476471,
+    "pipeline_hash": "fe294a25488b1c96271bd630c1740b393b9a6cb9de0e7a7b61ff2f77e3ad8b64",
+    "decision": "seeded",
+    "reason": "Loaded from meta-memory"
+  },
+  {
+    "timestamp": 1768140396.1650982,
+    "pipeline_hash": "50625564be4e17141b4bfe8abb416ed7dec8f1740f2cd8f24173aca94d5026b8",
+    "decision": "seeded",
+    "reason": "Loaded from meta-memory"
+  },
+  {
+    "timestamp": 1768140396.1826503,
+    "pipeline_hash": "7badcb70370db2c0182f43fb24682604056cb160cb06e9fdd5b377520eb30465",
+    "decision": "seeded",
+    "reason": "Loaded from meta-memory"
+  },
+  {
+    "timestamp": 1768140396.2161832,
+    "pipeline_hash": "9256c65001d17589b00159faf72eb3ccf9b5bb90bef2e2b88876ad81b2821670",
+    "decision": "accepted",
+    "reason": "{'accuracy': 0.9666666666666667, 'training_cost': -1750, 'simplicity': 13.333333333333332}"
+  },
+  {
+    "timestamp": 1768140396.2397482,
+    "pipeline_hash": "46980127de97a0726bde22b774b924924f1fd1e5f6923709ac6e9799fd4e8742",
+    "decision": "accepted",
+    "reason": "{'accuracy': 1.0, 'training_cost': -1750, 'simplicity': 4.444444444444444}"
+  },
+  {
+    "timestamp": 1768140396.265704,
+    "pipeline_hash": "b62a9b239e8c86886fc9bf6d1e187604291fbea80a7af63b2bf3610df22ec13f",
+    "decision": "accepted",
+    "reason": "{'accuracy': 0.98, 'training_cost': -1750, 'simplicity': 13.333333333333332}"
+  },
+  {
+    "timestamp": 1768140396.290156,
+    "pipeline_hash": "565dedbc413b1ef8898dda0cecb868a591138811683a84f2f55f383548ea3e12",
+    "decision": "accepted",
+    "reason": "{'accuracy': 0.9933333333333333, 'training_cost': -1750, 'simplicity': 53.33333333333333}"
+  },
+  {
+    "timestamp": 1768140396.312288,
+    "pipeline_hash": "71adcb70c4d3f1e98b943f1a829e42a93a187d8ecfe2db13dab612d44fdf9aac",
+    "decision": "accepted",
+    "reason": "{'accuracy': 0.98, 'training_cost': -1750, 'simplicity': 53.33333333333333}"
+  },
+  {
+    "timestamp": 1768140396.3354328,
+    "pipeline_hash": "db3b28b26d79119741eead654debc3a95f5f1b8ed906ea125b4349cac2757c9a",
+    "decision": "accepted",
+    "reason": "{'accuracy': 1.0, 'training_cost': -1750, 'simplicity': 17.777777777777775}"
+  },
+  {
+    "timestamp": 1768140396.3588188,
+    "pipeline_hash": "1083f2ba278f05d0c4d1505eb3caecc035239740e95ab94c88d03e4cb28cf6cc",
+    "decision": "accepted",
+    "reason": "{'accuracy': 1.0, 'training_cost': -1750, 'simplicity': 35.55555555555555}"
+  },
+  {
+    "timestamp": 1768140396.3834193,
+    "pipeline_hash": "45d2e0191f17f039c71bb4f0848314921ab8749968acb1645c6e286c097fe685",
+    "decision": "accepted",
+    "reason": "{'accuracy': 0.9933333333333333, 'training_cost': -1750, 'simplicity': 35.55555555555555}"
+  },
+  {
+    "timestamp": 1768140396.4080951,
+    "pipeline_hash": "da4e59f2bac53569fff0b8950456b3c2e7e8694d814e1d63326cf11d540ad577",
+    "decision": "accepted",
+    "reason": "{'accuracy': 0.9866666666666667, 'training_cost': -1750, 'simplicity': 35.55555555555555}"
+  },
+  {
+    "timestamp": 1768140396.4342682,
+    "pipeline_hash": "a22415e27aac5588ded6f384efcefa370cd25d1171a71264555f94563dcf9a18",
+    "decision": "accepted",
+    "reason": "{'accuracy': 0.9933333333333333, 'training_cost': -1750, 'simplicity': 8.888888888888888}"
+  },
+  {
+    "timestamp": 1768140396.4662635,
+    "pipeline_hash": "265b71383c0e18cb293f95d9c3fc5b1e1006e39b65c46fa96868d3e1dddd65d1",
+    "decision": "accepted",
+    "reason": "{'accuracy': 1.0, 'training_cost': -1750, 'simplicity': 2.962962962962963}"
+  },
+  {
+    "timestamp": 1768140396.4898686,
+    "pipeline_hash": "a3504883a9c568b268b4b94fc5170fc630f05e06c1371ed2a1535bfe2ba18901",
+    "decision": "accepted",
+    "reason": "{'accuracy': 0.98, 'training_cost': -1750, 'simplicity': 2.962962962962963}"
+  },
+  {
+    "timestamp": 1768140396.512236,
+    "pipeline_hash": "4a1655ea7ea3f7163c1dcf9e24cc37b86d2c138452460734e88c4dee9a390579",
+    "decision": "accepted",
+    "reason": "{'accuracy': 0.9933333333333333, 'training_cost': -1750, 'simplicity': 1.9753086419753083}"
+  },
+  {
+    "timestamp": 1768140396.5339084,
+    "pipeline_hash": "c47db8436afa3e9031e60b4e29959b18d377360eae7b4e33aaf1349de1bb432d",
+    "decision": "accepted",
+    "reason": "{'accuracy': 0.9933333333333333, 'training_cost': -1750, 'simplicity': 5.925925925925926}"
+  },
+  {
+    "timestamp": 1768140396.5557888,
+    "pipeline_hash": "851a8a54bb9a9da9abea99529f55e71c0f87ec9bd43df962018a31ef27977f16",
+    "decision": "accepted",
+    "reason": "{'accuracy': 0.9866666666666667, 'training_cost': -1750, 'simplicity': 1.9753086419753083}"
+  },
+  {
+    "timestamp": 1768140396.5802348,
+    "pipeline_hash": "e339d874ccc469b7d4793dcce266ffdcc670d4cd78f74ecdc91387ad86530780",
+    "decision": "accepted",
+    "reason": "{'accuracy': 1.0, 'training_cost': -1750, 'simplicity': 1.3168724279835389}"
+  },
+  {
+    "timestamp": 1768140396.6086957,
+    "pipeline_hash": "de933fb370de09643a36b5eff0b0275372db92dc62ef0dcd112ace650841c6c6",
+    "decision": "accepted",
+    "reason": "{'accuracy': 1.0, 'training_cost': -1750, 'simplicity': 3.9506172839506166}"
+  },
+  {
+    "timestamp": 1768140396.6367054,
+    "pipeline_hash": "2704d89d2f8dc12d1ebd2b1ca9ad0f7e2b628a889375c6a01dfdeede2064599f",
+    "decision": "accepted",
+    "reason": "{'accuracy': 0.9866666666666667, 'training_cost': -1750, 'simplicity': 3.9506172839506166}"
+  },
+  {
+    "timestamp": 1768140396.6611018,
+    "pipeline_hash": "2c165b3610ed3bec660bcb7cf7aa86857362238bcaa7900fdd47c1982004e90b",
+    "decision": "accepted",
+    "reason": "{'accuracy': 1.0, 'training_cost': -1750, 'simplicity': 2.6337448559670777}"
+  },
+  {
+    "timestamp": 1768140396.6844761,
+    "pipeline_hash": "b78f1500337f278c84d92ed8d6287225ff4f3a33e9ffd523b685ad561ada51a3",
+    "decision": "accepted",
+    "reason": "{'accuracy': 1.0, 'training_cost': -1750, 'simplicity': 2.6337448559670777}"
+  },
+  {
+    "timestamp": 1768140396.716778,
+    "pipeline_hash": "d3838a47767352f6e6b46730455b9071115887ce1d07df9bcc2be2a11881fd35",
+    "decision": "accepted",
+    "reason": "{'accuracy': 0.9866666666666667, 'training_cost': -1750, 'simplicity': 2.6337448559670777}"
+  },
+  {
+    "timestamp": 1768140396.7400546,
+    "pipeline_hash": "db0419a1a1856261260950a043913f5635e91ce9436e3033c4ce3609f167e35b",
+    "decision": "accepted",
+    "reason": "{'accuracy': 0.98, 'training_cost': -1750, 'simplicity': 5.2674897119341555}"
+  },
+  {
+    "timestamp": 1768140396.763957,
+    "pipeline_hash": "6344b537221a6ee51c2be439930fb24ed1664dfaff42c7ae7ccf789e2854659d",
+    "decision": "accepted",
+    "reason": "{'accuracy': 0.9866666666666667, 'training_cost': -1750, 'simplicity': 15.802469135802466}"
+  },
+  {
+    "timestamp": 1768140396.7908304,
+    "pipeline_hash": "2434c8a0a0c81a175e279ad4cf1566b9c51437d8f92d19d9d291728de40cfe30",
+    "decision": "accepted",
+    "reason": "{'accuracy': 1.0, 'training_cost': -1750, 'simplicity': 15.802469135802466}"
+  },
+  {
+    "timestamp": 1768140396.8165789,
+    "pipeline_hash": "90b2820f4885a6b3b2deccc83bdc8fa78599e70258c026ec800e685d3c0d097f",
+    "decision": "accepted",
+    "reason": "{'accuracy': 0.9933333333333333, 'training_cost': -1750, 'simplicity': 11.851851851851851}"
+  },
+  {
+    "timestamp": 1768140396.8400028,
+    "pipeline_hash": "45700c2ed287206107a2642c16a4163ff5b0a7bc020bd37e1e72472190dd3e70",
+    "decision": "accepted",
+    "reason": "{'accuracy': 0.9933333333333333, 'training_cost': -1750, 'simplicity': 11.851851851851851}"
+  },
+  {
+    "timestamp": 1768140396.8644147,
+    "pipeline_hash": "a5e1d6363ee344bb9acfb33df3847ec417d1da1125438f4cbc7bd67cbf53d7d5",
+    "decision": "accepted",
+    "reason": "{'accuracy': 0.9933333333333333, 'training_cost': -1750, 'simplicity': 35.55555555555555}"
+  },
+  {
+    "timestamp": 1768140396.8889246,
+    "pipeline_hash": "e9db0f0e2392d77854a24199368f7e0ee900b463624fedb32d2f32171e6a8fdf",
+    "decision": "accepted",
+    "reason": "{'accuracy': 0.9733333333333334, 'training_cost': -1750, 'simplicity': 71.1111111111111}"
+  },
+  {
+    "timestamp": 1768140396.91413,
+    "pipeline_hash": "dea3822c6e25c5ea09b2a8e16dcc2db7c561dc22ecf399f12658d946410de5cf",
+    "decision": "accepted",
+    "reason": "{'accuracy': 0.98, 'training_cost': -1750, 'simplicity': 71.1111111111111}"
+  },
+  {
+    "timestamp": 1768140396.9407263,
+    "pipeline_hash": "68ad7b9a32b6051162c775bed13848b0e09eab991d7689a5d7175c49d511a252",
+    "decision": "accepted",
+    "reason": "{'accuracy': 1.0, 'training_cost': -1750, 'simplicity': 71.1111111111111}"
+  },
+  {
+    "timestamp": 1768140396.9815094,
+    "pipeline_hash": "da5b92c4a84f4f45e6cc521933a70ddde901f00d3aebc1b513e165349cda8304",
+    "decision": "accepted",
+    "reason": "{'accuracy': 0.9933333333333333, 'training_cost': -1750, 'simplicity': 142.2222222222222}"
+  },
+  {
+    "timestamp": 1768140397.006912,
+    "pipeline_hash": "45805be4bbc12ef3b453c00deeed972a98a24301fa88f32be86921eae462325f",
+    "decision": "accepted",
+    "reason": "{'accuracy': 0.9933333333333333, 'training_cost': -1750, 'simplicity': 47.407407407407405}"
+  },
+  {
+    "timestamp": 1768140397.0342958,
+    "pipeline_hash": "436d1355722a97e3b43c48050058eaacb428500d5e85858661a2f67ef50984b2",
+    "decision": "accepted",
+    "reason": "{'accuracy': 0.9733333333333334, 'training_cost': -1750, 'simplicity': 47.407407407407405}"
+  },
+  {
+    "timestamp": 1768140397.0739758,
+    "pipeline_hash": "8618894ee5308d6ee1a525313749bc0de53720e107b5aa6111019a27c948bc59",
+    "decision": "accepted",
+    "reason": "{'accuracy': 1.0, 'training_cost': -1750, 'simplicity': 94.81481481481481}"
+  },
+  {
+    "timestamp": 1768140397.1024253,
+    "pipeline_hash": "6a603aa3cae1c3a521a8fa237809933319b7949e0bc0b4a04a84cbd5c84414a2",
+    "decision": "accepted",
+    "reason": "{'accuracy': 0.9933333333333333, 'training_cost': -1750, 'simplicity': 284.4444444444444}"
+  },
+  {
+    "timestamp": 1768140397.1268036,
+    "pipeline_hash": "e85937fb785b76b43f22a90166575a54bdaa785b90a5bebc6a33acc6b899a132",
+    "decision": "accepted",
+    "reason": "{'accuracy': 1.0, 'training_cost': -1750, 'simplicity': 94.81481481481481}"
+  },
+  {
+    "timestamp": 1768140397.1750493,
+    "pipeline_hash": "9f9a123ec696fa3c7b8b60b698b95897208145de4c3e5d6e1e654231d0d82895",
+    "decision": "accepted",
+    "reason": "{'accuracy': 0.9933333333333333, 'training_cost': -1750, 'simplicity': 189.62962962962962}"
+  },
+  {
+    "timestamp": 1768140397.2026432,
+    "pipeline_hash": "8336377e049f499fc9358d36a65b950be49b70b43f386cc7cdc95ee6524221e7",
+    "decision": "accepted",
+    "reason": "{'accuracy': 0.9933333333333333, 'training_cost': -1750, 'simplicity': 189.62962962962962}"
+  },
+  {
+    "timestamp": 1768140397.2339644,
+    "pipeline_hash": "7c478265b80c570e00e30f452a63992d3c3f72b1f2dc328bf7f8316ced0b52c8",
+    "decision": "accepted",
+    "reason": "{'accuracy': 0.9866666666666667, 'training_cost': -1750, 'simplicity': 189.62962962962962}"
+  },
+  {
+    "timestamp": 1768140397.260592,
+    "pipeline_hash": "622eac6f5562fd32488384ebed5060fa23a6e95e8df2122fc96ade4d8e2e8fbf",
+    "decision": "accepted",
+    "reason": "{'accuracy': 0.9933333333333333, 'training_cost': -1750, 'simplicity': 189.62962962962962}"
+  },
+  {
+    "timestamp": 1768140397.2834933,
+    "pipeline_hash": "4e31c8c43e142b6bb2a4a3fdc6d827649493de9195c07d28b9da941f9905f1a3",
+    "decision": "accepted",
+    "reason": "{'accuracy': 0.9866666666666667, 'training_cost': -1750, 'simplicity': 189.62962962962962}"
+  },
+  {
+    "timestamp": 1768140397.3115206,
+    "pipeline_hash": "8d0033ce9be9b82a18f76353784a6186a36b42ce47deb4f798176242be768c5e",
+    "decision": "accepted",
+    "reason": "{'accuracy': 1.0, 'training_cost': -1750, 'simplicity': 568.8888888888888}"
+  },
+  {
+    "timestamp": 1768140397.3325572,
+    "pipeline_hash": "f03f7d4b0f5d43aac96871bbd8c61d9b7a2a5127dd460e0e8e6d11fd3564fc46",
+    "decision": "accepted",
+    "reason": "{'accuracy': 0.9866666666666667, 'training_cost': -1750, 'simplicity': 63.209876543209866}"
+  },
+  {
+    "timestamp": 1768140397.361107,
+    "pipeline_hash": "df272af6afa5239787050d578447011944c4830fe15349cccb694d84fc7a3332",
+    "decision": "accepted",
+    "reason": "{'accuracy': 0.9733333333333334, 'training_cost': -1750, 'simplicity': 189.62962962962962}"
+  },
+  {
+    "timestamp": 1768140397.394991,
+    "pipeline_hash": "c623101965db9c6ad95ef60a951c52818478d086de7d7e798d4b9ace2903ca8a",
+    "decision": "accepted",
+    "reason": "{'accuracy': 0.9666666666666667, 'training_cost': -1750, 'simplicity': 63.209876543209866}"
+  },
+  {
+    "timestamp": 1768140397.4295406,
+    "pipeline_hash": "66755b201f0e1dff9bce9cc0c5d3a4b017d8a8cf79bd85802f8eef3b8092c578",
+    "decision": "accepted",
+    "reason": "{'accuracy': 1.0, 'training_cost': -1750, 'simplicity': 379.25925925925924}"
+  },
+  {
+    "timestamp": 1768140397.4543557,
+    "pipeline_hash": "bad39791e0319781e38d028ecdfae743aacc99ecb8cf283bb706bfb0209df021",
+    "decision": "accepted",
+    "reason": "{'accuracy': 1.0, 'training_cost': -1750, 'simplicity': 1137.7777777777776}"
+  },
+  {
+    "timestamp": 1768140397.479813,
+    "pipeline_hash": "c82780169349db54940296482e7c17ef4f2a81d029fc08e6f8d506ab718643fc",
+    "decision": "accepted",
+    "reason": "{'accuracy': 0.9933333333333333, 'training_cost': -1750, 'simplicity': 379.25925925925924}"
+  },
+  {
+    "timestamp": 1768140397.5050657,
+    "pipeline_hash": "bad39791e0319781e38d028ecdfae743aacc99ecb8cf283bb706bfb0209df021",
+    "decision": "stable",
+    "reason": "No drift detected"
+  },
+  {
+    "timestamp": 1768140499.8619084,
+    "pipeline_hash": "9b1a44b459513ff2a25ce389293bad6abc79bf525dc43ba7cd680693dcaf0caf",
+    "decision": "seeded",
+    "reason": "Species=conservative"
+  },
+  {
+    "timestamp": 1768140499.8820097,
+    "pipeline_hash": "16267afa7522724f046b823f683f742a2d9ac88f04dc843427b255211b0e88b8",
+    "decision": "seeded",
+    "reason": "Species=aggressive"
+  },
+  {
+    "timestamp": 1768140499.894457,
+    "pipeline_hash": "66be3e080851995cb288c3d06c2c924989737321f089103ee274689c5b212680",
+    "decision": "seeded",
+    "reason": "Species=balanced"
+  },
+  {
+    "timestamp": 1768140499.9217885,
+    "pipeline_hash": "bf86596c942e848d139116ba02c308c93f6d74c25d33fa794b7ab7bb34ef32e1",
+    "decision": "accepted",
+    "reason": "{'accuracy': 0.9666666666666667, 'training_cost': -1750, 'simplicity': 17.552685286205556}"
+  },
+  {
+    "timestamp": 1768140499.94751,
+    "pipeline_hash": "c6ce4f6c49a1a76510e53331b714e223a1e498d18f1d033855a7e18795cc6961",
+    "decision": "accepted",
+    "reason": "{'accuracy': 1.0, 'training_cost': -1750, 'simplicity': 16.10888965359752}"
+  },
+  {
+    "timestamp": 1768140499.9730246,
+    "pipeline_hash": "5209e3936467e8dabc0052e69e89cf9360626b9a55e457cfaa24ea8778310ce3",
+    "decision": "accepted",
+    "reason": "{'accuracy': 0.9866666666666667, 'training_cost': -1750, 'simplicity': 27.654456640388528}"
+  },
+  {
+    "timestamp": 1768140500.0033133,
+    "pipeline_hash": "20749465cf88308a0ad2d70704aef18a5b59211ae0bacd985cc00206f96bef69",
+    "decision": "accepted",
+    "reason": "{'accuracy': 0.98, 'training_cost': -1750, 'simplicity': 26.733998785729966}"
+  },
+  {
+    "timestamp": 1768140500.02973,
+    "pipeline_hash": "e8b00e1edaac708876810aed803e6b596d1e9e9e151e48cda666eec35dc53ace",
+    "decision": "accepted",
+    "reason": "{'accuracy': 1.0, 'training_cost': -1750, 'simplicity': 11.57153287972196}"
+  },
+  {
+    "timestamp": 1768140500.054526,
+    "pipeline_hash": "99810d074571d83355da787f5d4d96b59b3669ee21296a210bb65ddf76ab5a81",
+    "decision": "accepted",
+    "reason": "{'accuracy': 1.0, 'training_cost': -1750, 'simplicity': 14.772328949760611}"
+  },
+  {
+    "timestamp": 1768140500.0803018,
+    "pipeline_hash": "88ed602ed9b57ba88639b08694be0c31b463dd6c254763b2163c1abce3efbc9f",
+    "decision": "accepted",
+    "reason": "{'accuracy': 0.9933333333333333, 'training_cost': -1750, 'simplicity': 52.19041387725994}"
+  },
+  {
+    "timestamp": 1768140500.1203942,
+    "pipeline_hash": "8c16a1798c352694942208363f0ee4dc48f6a03522aa55cb43af004b6f719ce7",
+    "decision": "accepted",
+    "reason": "{'accuracy': 0.9866666666666667, 'training_cost': -1750, 'simplicity': 37.742921270550106}"
+  },
+  {
+    "timestamp": 1768140500.1435332,
+    "pipeline_hash": "8c9456cfe6391c333cce41d343abd72e6ea76b0fc960b05b6cdc4ff9d5244593",
+    "decision": "accepted",
+    "reason": "{'accuracy': 0.98, 'training_cost': -1750, 'simplicity': 52.51356692848412}"
+  },
+  {
+    "timestamp": 1768140500.1742349,
+    "pipeline_hash": "25296e599048c54ad267305445a8382ce0d920c70b11e7b4c3ea6e60a037ad64",
+    "decision": "accepted",
+    "reason": "{'accuracy': 1.0, 'training_cost': -1750, 'simplicity': 12.149233075325276}"
+  },
+  {
+    "timestamp": 1768140500.1985252,
+    "pipeline_hash": "51bfd4189bc5ab4b358ca596aaaec27059c55129acdd23555853520aac16f4e7",
+    "decision": "accepted",
+    "reason": "{'accuracy': 1.0, 'training_cost': -1750, 'simplicity': 14.137310574991949}"
+  },
+  {
+    "timestamp": 1768140500.2238145,
+    "pipeline_hash": "2ee8860a4897da587ea1e497c031a272c9dee48f3f5bd80c93ca3717a60bf646",
+    "decision": "accepted",
+    "reason": "{'accuracy': 0.9933333333333333, 'training_cost': -1750, 'simplicity': 15.562340418130983}"
+  },
+  {
+    "timestamp": 1768140500.248803,
+    "pipeline_hash": "ee07fe740ba3012327b2a6cea2c0396f2f304fcd7e2d94ec74b795963ef83cde",
+    "decision": "accepted",
+    "reason": "{'accuracy': 0.9933333333333333, 'training_cost': -1750, 'simplicity': 39.86228067741058}"
+  },
+  {
+    "timestamp": 1768140500.2732043,
+    "pipeline_hash": "86daadfd6239fa45b53ac3dc3769adaf5e761962ac7e4d27a591b47c180ba2e4",
+    "decision": "accepted",
+    "reason": "{'accuracy': 0.9866666666666667, 'training_cost': -1750, 'simplicity': 41.464678968106554}"
+  },
+  {
+    "timestamp": 1768140500.2950733,
+    "pipeline_hash": "7513e14fe856d6455a33f6d56d36ce4aa5332d58c740c3862937ad65b48724d2",
+    "decision": "accepted",
+    "reason": "{'accuracy': 0.9866666666666667, 'training_cost': -1750, 'simplicity': 43.56333001494223}"
+  },
+  {
+    "timestamp": 1768140500.32146,
+    "pipeline_hash": "a7744536c605512f690325f030f232da94f9764d4998f75f1ef44a58fbc86bf7",
+    "decision": "accepted",
+    "reason": "{'accuracy': 1.0, 'training_cost': -1750, 'simplicity': 67.4992107134905}"
+  },
+  {
+    "timestamp": 1768140500.349916,
+    "pipeline_hash": "b496df7c3282cc9820f3c5bd74e4e483defb0e2c51000ab3fb539a09d4fce56e",
+    "decision": "accepted",
+    "reason": "{'accuracy': 1.0, 'training_cost': -1750, 'simplicity': 36.04291827689774}"
+  },
+  {
+    "timestamp": 1768140500.3756175,
+    "pipeline_hash": "bf31e2e739fb5d67f2e684b94f9276ac75d9bc5c94e0d196a01f339d6621908b",
+    "decision": "accepted",
+    "reason": "{'accuracy': 1.0, 'training_cost': -1750, 'simplicity': 87.1711737029832}"
+  },
+  {
+    "timestamp": 1768140500.4043522,
+    "pipeline_hash": "b819afd52dc42a35d04b79426859462bea85e5b07fffe412e07778de859a2e22",
+    "decision": "accepted",
+    "reason": "{'accuracy': 1.0, 'training_cost': -1750, 'simplicity': 5.586126781071445}"
+  },
+  {
+    "timestamp": 1768140500.434484,
+    "pipeline_hash": "58ada5adb648c01ebdedf35f3cc1d8144544a32909f3bd03754f698e603e7574",
+    "decision": "accepted",
+    "reason": "{'accuracy': 1.0, 'training_cost': -1750, 'simplicity': 3.020073132827376}"
+  },
+  {
+    "timestamp": 1768140500.4648974,
+    "pipeline_hash": "9fa9df572558f4f89c5a298c49fdaaccf8adca176c49f90827d0efa41e4d9bc5",
+    "decision": "accepted",
+    "reason": "{'accuracy': 0.9733333333333334, 'training_cost': -1750, 'simplicity': 2.710618176582335}"
+  },
+  {
+    "timestamp": 1768140500.4913719,
+    "pipeline_hash": "8e4ffbc26b02f229a4a81e1be43d1e472093e09a428331789b50335215c548bd",
+    "decision": "accepted",
+    "reason": "{'accuracy': 0.9866666666666667, 'training_cost': -1750, 'simplicity': 8.940289496782476}"
+  },
+  {
+    "timestamp": 1768140500.514282,
+    "pipeline_hash": "4613a1d50882b0103a0feb3a09bf435e6a41aba691598403c9ad1f1101896030",
+    "decision": "accepted",
+    "reason": "{'accuracy': 0.9866666666666667, 'training_cost': -1750, 'simplicity': 9.651217811632863}"
+  },
+  {
+    "timestamp": 1768140500.5397737,
+    "pipeline_hash": "6179a6e8146898a9d2803534fbeb15e07a85acd0f89fb39744c0b5d12b677a1e",
+    "decision": "accepted",
+    "reason": "{'accuracy': 0.9733333333333334, 'training_cost': -1750, 'simplicity': 4.201976216331649}"
+  },
+  {
+    "timestamp": 1768140500.5635946,
+    "pipeline_hash": "72ac0a6cb85157bb7af16c38cf74cf1c62e79616f00e2c1b1d5675ee926af704",
+    "decision": "accepted",
+    "reason": "{'accuracy': 0.9866666666666667, 'training_cost': -1750, 'simplicity': 6.966116161032174}"
+  },
+  {
+    "timestamp": 1768140500.595622,
+    "pipeline_hash": "6c5b0f7fc9be67e3888a55ca2dcaa133c2a9527ae62ee7ffdf07ed0dc953c91b",
+    "decision": "accepted",
+    "reason": "{'accuracy': 1.0, 'training_cost': -1750, 'simplicity': 8.958275949163045}"
+  },
+  {
+    "timestamp": 1768140500.6274707,
+    "pipeline_hash": "e83a9f0dfcb2ea9f8f8fadc211e6551a75f71f36ee3877bc5af190baf9b90bd1",
+    "decision": "accepted",
+    "reason": "{'accuracy': 0.9866666666666667, 'training_cost': -1750, 'simplicity': 16.945185785019753}"
+  },
+  {
+    "timestamp": 1768140500.6576567,
+    "pipeline_hash": "868ef7f9a6b7963ced133a72dff3732d4d553daded80c030724e94f854b7eda5",
+    "decision": "accepted",
+    "reason": "{'accuracy': 0.98, 'training_cost': -1750, 'simplicity': 13.738183389772328}"
+  },
+  {
+    "timestamp": 1768140500.6865332,
+    "pipeline_hash": "a0b07629c5a13aa7ae26b684f63d10b1d08b785e072f5489b95ec13bf6766d86",
+    "decision": "accepted",
+    "reason": "{'accuracy': 0.98, 'training_cost': -1750, 'simplicity': 6.733002357487465}"
+  },
+  {
+    "timestamp": 1768140500.711803,
+    "pipeline_hash": "27a7a6be78e60700c3a9cd3d49906189129a4a2146d45f6fe17b0812e9873763",
+    "decision": "accepted",
+    "reason": "{'accuracy': 0.9933333333333333, 'training_cost': -1750, 'simplicity': 7.318053075412974}"
+  },
+  {
+    "timestamp": 1768140500.737949,
+    "pipeline_hash": "a51cd64a6a69db776a33e529ee26ac6da6076e0de9c9b68468792ecddf77de33",
+    "decision": "accepted",
+    "reason": "{'accuracy': 0.9933333333333333, 'training_cost': -1750, 'simplicity': 17.65379881088732}"
+  },
+  {
+    "timestamp": 1768140500.7637951,
+    "pipeline_hash": "d6a842573c0122e5a3a778d9f00da6f8071cba33b1535d79836c260d05631b68",
+    "decision": "accepted",
+    "reason": "{'accuracy': 0.9733333333333334, 'training_cost': -1750, 'simplicity': 10.300264345630495}"
+  },
+  {
+    "timestamp": 1768140500.7888725,
+    "pipeline_hash": "7880f922097b15e4b5a511b9fcb8978b2202195ad3ddafbf34237d901b537155",
+    "decision": "accepted",
+    "reason": "{'accuracy': 0.9866666666666667, 'training_cost': -1750, 'simplicity': 15.78533181182367}"
+  },
+  {
+    "timestamp": 1768140500.8140926,
+    "pipeline_hash": "680ddd2888c5a8dbf58a2b30e403ae1e545623b591b69d5d1f5c03b17dd57da6",
+    "decision": "accepted",
+    "reason": "{'accuracy': 1.0, 'training_cost': -1750, 'simplicity': 6.254736740544388}"
+  },
+  {
+    "timestamp": 1768140500.8392336,
+    "pipeline_hash": "e9096320506b2d20ba3352e81dfb3cfb1187ed8f3357894df5726fbc97a2eeac",
+    "decision": "accepted",
+    "reason": "{'accuracy': 0.9933333333333333, 'training_cost': -1750, 'simplicity': 5.095393316355542}"
+  },
+  {
+    "timestamp": 1768140500.8759723,
+    "pipeline_hash": "6a17f327b91e0d5283d61c1781069e459bdf967bf4409bc57983893f15cb703a",
+    "decision": "accepted",
+    "reason": "{'accuracy': 0.9733333333333334, 'training_cost': -1750, 'simplicity': 12.797395939862708}"
+  },
+  {
+    "timestamp": 1768140500.9023583,
+    "pipeline_hash": "156f01661e5658293a3e6e2535a5391e4d5ca14ddb58cb7e423e56e0625a32bb",
+    "decision": "accepted",
+    "reason": "{'accuracy': 0.9933333333333333, 'training_cost': -1750, 'simplicity': 26.269999602756492}"
+  },
+  {
+    "timestamp": 1768140500.9260218,
+    "pipeline_hash": "b7cc386a16b499518a4236c10aa7871805a500d45b817f01683f99e8c14f751e",
+    "decision": "accepted",
+    "reason": "{'accuracy': 1.0, 'training_cost': -1750, 'simplicity': 23.680801443299764}"
+  },
+  {
+    "timestamp": 1768140500.9578092,
+    "pipeline_hash": "da3d892b330087aa1fd0a5c49df2cc499f885a9d26d137830950d8dd80e76cec",
+    "decision": "accepted",
+    "reason": "{'accuracy': 0.9866666666666667, 'training_cost': -1750, 'simplicity': 20.06623863941205}"
+  },
+  {
+    "timestamp": 1768140500.9931903,
+    "pipeline_hash": "90e18a74b4aa3d09979858276e62aa96e55cb995d59b99a2c3a298f4a425f7cd",
+    "decision": "accepted",
+    "reason": "{'accuracy': 0.9933333333333333, 'training_cost': -1750, 'simplicity': 5.266431359210415}"
+  },
+  {
+    "timestamp": 1768140501.0258746,
+    "pipeline_hash": "aeea031182427999959d776a3345b577bddad27d27f7befbae92e0731a8b5d1a",
+    "decision": "accepted",
+    "reason": "{'accuracy': 0.9933333333333333, 'training_cost': -1750, 'simplicity': 5.282167937410184}"
+  },
+  {
+    "timestamp": 1768140501.0522332,
+    "pipeline_hash": "f87330de8379ed24cecb94395a71d297c8b653d6c5f79271dd82b0d6b0736da3",
+    "decision": "accepted",
+    "reason": "{'accuracy': 0.98, 'training_cost': -1750, 'simplicity': 8.570844553334725}"
+  },
+  {
+    "timestamp": 1768141079.2652617,
+    "pipeline_hash": "9b1a44b459513ff2a25ce389293bad6abc79bf525dc43ba7cd680693dcaf0caf",
+    "decision": "seeded",
+    "reason": "Species=conservative"
+  },
+  {
+    "timestamp": 1768141079.2952905,
+    "pipeline_hash": "16267afa7522724f046b823f683f742a2d9ac88f04dc843427b255211b0e88b8",
+    "decision": "seeded",
+    "reason": "Species=aggressive"
+  },
+  {
+    "timestamp": 1768141079.3241043,
+    "pipeline_hash": "66be3e080851995cb288c3d06c2c924989737321f089103ee274689c5b212680",
+    "decision": "seeded",
+    "reason": "Species=balanced"
+  },
+  {
+    "timestamp": 1768141079.3846729,
+    "pipeline_hash": "bf86596c942e848d139116ba02c308c93f6d74c25d33fa794b7ab7bb34ef32e1",
+    "decision": "accepted",
+    "reason": "{'accuracy': 0.9666666666666667, 'training_cost': -1750, 'simplicity': 17.552685286205556}"
+  },
+  {
+    "timestamp": 1768141079.4320517,
+    "pipeline_hash": "9047513bc42fc0392fefbcbb9d3acfa98676a2a56aba1243dc4f45a29f78e082",
+    "decision": "accepted",
+    "reason": "{'accuracy': 1.0, 'training_cost': -1750, 'simplicity': 14.590283857074349}"
+  },
+  {
+    "timestamp": 1768141079.4815404,
+    "pipeline_hash": "bb275edcb0ce4637035cdd18aa48feb5e89611a58be1b27727eecfde88fca7f3",
+    "decision": "accepted",
+    "reason": "{'accuracy': 0.9866666666666667, 'training_cost': -1750, 'simplicity': 17.991996581172675}"
+  },
+  {
+    "timestamp": 1768141079.5433967,
+    "pipeline_hash": "a79268541cf64151fa31e9270d17516ea6114360ad572c5b4fe3925561a2837b",
+    "decision": "accepted",
+    "reason": "{'accuracy': 0.98, 'training_cost': -1750, 'simplicity': 13.879046079418348}"
+  },
+  {
+    "timestamp": 1768141079.590395,
+    "pipeline_hash": "2a2b38d4a30b0e96d843cf39c039b0097be98817998a368a1f884dc0a3c1de97",
+    "decision": "accepted",
+    "reason": "{'accuracy': 1.0, 'training_cost': -1750, 'simplicity': 10.089603678420318}"
+  },
+  {
+    "timestamp": 1768141079.6327112,
+    "pipeline_hash": "6487520ed0d6ab99d5951ca241563b2b5a763128cc0d3f67aa95adbc9a4da331",
+    "decision": "accepted",
+    "reason": "{'accuracy': 0.9933333333333333, 'training_cost': -1750, 'simplicity': 11.264594207066557}"
+  },
+  {
+    "timestamp": 1768141079.684192,
+    "pipeline_hash": "9248566da8dbf8f1b30c9dce3e4e7a5fac4123829873c358de5a801d4f3ee3d1",
+    "decision": "accepted",
+    "reason": "{'accuracy': 0.9933333333333333, 'training_cost': -1750, 'simplicity': 17.727886802292872}"
+  },
+  {
+    "timestamp": 1768141079.7231548,
+    "pipeline_hash": "8055db93a7a494ce34ed857824bd090b639b64240c0cdade8c15620863de16f6",
+    "decision": "accepted",
+    "reason": "{'accuracy': 0.9866666666666667, 'training_cost': -1750, 'simplicity': 16.117158985470518}"
+  },
+  {
+    "timestamp": 1768141079.764467,
+    "pipeline_hash": "fb5971b66af7edb2a5222f2922edb2ee8bd5fb9965059d304d2491de0bc14f90",
+    "decision": "accepted",
+    "reason": "{'accuracy': 0.98, 'training_cost': -1750, 'simplicity': 17.756414631089413}"
+  },
+  {
+    "timestamp": 1768141079.8092766,
+    "pipeline_hash": "1e9d33e45e34afbeaeda40476a59b4adb8e9418fa775b0c758bc681c5eec3144",
+    "decision": "accepted",
+    "reason": "{'accuracy': 1.0, 'training_cost': -1750, 'simplicity': 7.430494043769108}"
+  },
+  {
+    "timestamp": 1768141079.8532677,
+    "pipeline_hash": "2700667f7dbbdeb7e375331b6ba0b67aceaae500d37e8e864b7b7d70a8b722b8",
+    "decision": "accepted",
+    "reason": "{'accuracy': 1.0, 'training_cost': -1750, 'simplicity': 7.929833380671916}"
+  },
+  {
+    "timestamp": 1768141079.8981636,
+    "pipeline_hash": "be991206aa06dccc059dc4f1d0634b8d1b9ae700c85ba9037e5651b36293f5c2",
+    "decision": "accepted",
+    "reason": "{'accuracy': 0.9933333333333333, 'training_cost': -1750, 'simplicity': 8.239684652190252}"
+  },
+  {
+    "timestamp": 1768141079.9471412,
+    "pipeline_hash": "35b5f758e590034616a135050a8824179db45b8bb2e2f9b38c8c011d9e42fc2d",
+    "decision": "accepted",
+    "reason": "{'accuracy': 0.9933333333333333, 'training_cost': -1750, 'simplicity': 12.62174745450977}"
+  },
+  {
+    "timestamp": 1768141079.9934628,
+    "pipeline_hash": "321bae9c1f9ae8e24e648a7c530a3e25e823b0a226d48912abed96062b059425",
+    "decision": "accepted",
+    "reason": "{'accuracy': 0.9866666666666667, 'training_cost': -1750, 'simplicity': 12.853283648212413}"
+  },
+  {
+    "timestamp": 1768141080.0412097,
+    "pipeline_hash": "2cefad4ecbdfbad99ef9089d090ba77a703c3c5ddf15fe36ef79d93f2d4b125f",
+    "decision": "accepted",
+    "reason": "{'accuracy': 0.9933333333333333, 'training_cost': -1750, 'simplicity': 13.142204207062361}"
+  },
+  {
+    "timestamp": 1768141080.0898056,
+    "pipeline_hash": "64a36c648c489a1ae0a5ca004985b24f721111212ee68c6926f25ecb425e891d",
+    "decision": "accepted",
+    "reason": "{'accuracy': 1.0, 'training_cost': -1750, 'simplicity': 15.591130034459917}"
+  },
+  {
+    "timestamp": 1768141080.1382542,
+    "pipeline_hash": "4c49a7d0c73f60b2a7e6b3e2cdb9fc8a9c607caa1cdd094a5a99fc46b75ae03e",
+    "decision": "accepted",
+    "reason": "{'accuracy': 1.0, 'training_cost': -1750, 'simplicity': 12.010462646646657}"
+  },
+  {
+    "timestamp": 1768141080.192771,
+    "pipeline_hash": "a7a2269f7bba58cc17d2c8379a14ffcfe3a58db4173e488af0407027e5dc2aa8",
+    "decision": "accepted",
+    "reason": "{'accuracy': 1.0, 'training_cost': -1750, 'simplicity': 16.89342437925739}"
+  },
+  {
+    "timestamp": 1768141080.2492497,
+    "pipeline_hash": "f69d52ca9a79ee369ed8d232f0199cce38a37479e81039f42065b4fec427d95d",
+    "decision": "accepted",
+    "reason": "{'accuracy': 1.0, 'training_cost': -1750, 'simplicity': 3.179574853483477}"
+  },
+  {
+    "timestamp": 1768141080.291778,
+    "pipeline_hash": "2cedd718248176644b5a4cd31f1a8fde8f112467dcfd29740a57dedf9c6a4b14",
+    "decision": "accepted",
+    "reason": "{'accuracy': 0.9866666666666667, 'training_cost': -1750, 'simplicity': 2.5604332354302395}"
+  },
+  {
+    "timestamp": 1768141080.3281052,
+    "pipeline_hash": "3c81ffb8a861ec1ab7aaf403152726c512e7dbf3cc33e8d188f7176f0e736d55",
+    "decision": "accepted",
+    "reason": "{'accuracy': 0.9733333333333334, 'training_cost': -1750, 'simplicity': 2.4422423840919425}"
+  },
+  {
+    "timestamp": 1768141080.3717866,
+    "pipeline_hash": "2106410ab3582fdb872e2c670595eef3fd0f930cf957dd452f2381c069d32fa0",
+    "decision": "accepted",
+    "reason": "{'accuracy': 0.9866666666666667, 'training_cost': -1750, 'simplicity': 2.9927858655636608}"
+  },
+  {
+    "timestamp": 1768141080.439551,
+    "pipeline_hash": "60d1377c60ae4329f1a0c459858bf3dba3a20f0c182de837ad9369a86a15da83",
+    "decision": "accepted",
+    "reason": "{'accuracy': 0.9866666666666667, 'training_cost': -1750, 'simplicity': 3.0590480570691896}"
+  },
+  {
+    "timestamp": 1768141080.4805744,
+    "pipeline_hash": "8ba5121e82f94c7b5d811629c68e231bed9099af531ae22559ead8d073848fa0",
+    "decision": "accepted",
+    "reason": "{'accuracy': 0.9733333333333334, 'training_cost': -1750, 'simplicity': 2.247522168641743}"
+  },
+  {
+    "timestamp": 1768141080.5309546,
+    "pipeline_hash": "6f34cb5b302db5a4ee9e144f9eb34dc12f4b053094dd5c432e590515d6f6606a",
+    "decision": "accepted",
+    "reason": "{'accuracy': 0.9666666666666667, 'training_cost': -1750, 'simplicity': 2.120325220656703}"
+  },
+  {
+    "timestamp": 1768141080.5837996,
+    "pipeline_hash": "6e443a974ef8b75242d4c7aad7346e80d17673dad34d2e478b871c82812bb1a2",
+    "decision": "accepted",
+    "reason": "{'accuracy': 0.9933333333333333, 'training_cost': -1750, 'simplicity': 2.3737913057002458}"
+  },
+  {
+    "timestamp": 1768141080.6285267,
+    "pipeline_hash": "70c0e81797d2cf18ad805c4ffc1f346b6d4b033aced7a69d4fbb2b6916536712",
+    "decision": "accepted",
+    "reason": "{'accuracy': 0.9733333333333334, 'training_cost': -1750, 'simplicity': 2.956237294577861}"
+  },
+  {
+    "timestamp": 1768141080.68793,
+    "pipeline_hash": "45192247baf6e4166f3851bfd077eb2fd125f6e10c95ca507c659e1c3cecd713",
+    "decision": "accepted",
+    "reason": "{'accuracy': 0.98, 'training_cost': -1750, 'simplicity': 8.977070550562287}"
+  },
+  {
+    "timestamp": 1768141080.7434003,
+    "pipeline_hash": "e096f5bedcddc0cf38037cacc751fb56ac7835ff281c9c3dea5feced3fc8aa6a",
+    "decision": "accepted",
+    "reason": "{'accuracy': 0.98, 'training_cost': -1750, 'simplicity': 6.69967031310063}"
+  },
+  {
+    "timestamp": 1768141080.8274586,
+    "pipeline_hash": "b05a364a73557768b1868e8bc203703d9dcd7335bbde98ef1611f124ebf46c36",
+    "decision": "accepted",
+    "reason": "{'accuracy': 0.9933333333333333, 'training_cost': -1750, 'simplicity': 6.977189590143067}"
+  },
+  {
+    "timestamp": 1768141080.8760936,
+    "pipeline_hash": "87b30532b0422ba67c620b5e6fcf0a529548552eeccf82bff59bf528197af668",
+    "decision": "accepted",
+    "reason": "{'accuracy': 0.9933333333333333, 'training_cost': -1750, 'simplicity': 7.881873351220617}"
+  },
+  {
+    "timestamp": 1768141080.918605,
+    "pipeline_hash": "34883b35096348fcf3db95acc0600fca45fbc24a3ca5a75430b27bff5d3be9c4",
+    "decision": "accepted",
+    "reason": "{'accuracy': 0.9733333333333334, 'training_cost': -1750, 'simplicity': 6.335493359468797}"
+  },
+  {
+    "timestamp": 1768141080.9675028,
+    "pipeline_hash": "42c8e3b4189833b1a1fe0f7619c5d6a1b29675a2082fc4b246893f676aa39239",
+    "decision": "accepted",
+    "reason": "{'accuracy': 0.98, 'training_cost': -1750, 'simplicity': 7.575310060057562}"
+  },
+  {
+    "timestamp": 1768141081.0099752,
+    "pipeline_hash": "12915bce87d802a21dafb3ffb44ade25b2eff62753b11409f97a0764d83682d3",
+    "decision": "accepted",
+    "reason": "{'accuracy': 1.0, 'training_cost': -1750, 'simplicity': 5.226350652590382}"
+  },
+  {
+    "timestamp": 1768141081.050831,
+    "pipeline_hash": "a8d990747ff0ff9ee0308095cf596ade951c89a03eeb8d3cb34ed97e62398a99",
+    "decision": "accepted",
+    "reason": "{'accuracy': 0.9933333333333333, 'training_cost': -1750, 'simplicity': 4.75218078328695}"
+  },
+  {
+    "timestamp": 1768141081.1019452,
+    "pipeline_hash": "71f1abed561eee6334ff649329d0bea9314d2f9291b4350176af8ac83ed140b2",
+    "decision": "accepted",
+    "reason": "{'accuracy': 0.98, 'training_cost': -1750, 'simplicity': 6.736740781931124}"
+  },
+  {
+    "timestamp": 1768141081.1535034,
+    "pipeline_hash": "bdd6ecba51fbe12f29596f4d26f21096259ca223857e1bf3acd4ba7fbb979063",
+    "decision": "accepted",
+    "reason": "{'accuracy': 0.9866666666666667, 'training_cost': -1750, 'simplicity': 7.261183934420292}"
+  },
+  {
+    "timestamp": 1768141081.1968284,
+    "pipeline_hash": "dd324c736bf021ba54aeca9d7f2a8565501edad94137319eda84172f737d9d25",
+    "decision": "accepted",
+    "reason": "{'accuracy': 1.0, 'training_cost': -1750, 'simplicity': 7.023100188202102}"
+  },
+  {
+    "timestamp": 1768141081.238723,
+    "pipeline_hash": "75c6a2af3cd4150475d2d1fb1367b5e5ad9a41f454df18f6b750218d99bfe1cf",
+    "decision": "accepted",
+    "reason": "{'accuracy': 0.9933333333333333, 'training_cost': -1750, 'simplicity': 6.626036034305142}"
+  },
+  {
+    "timestamp": 1768141081.3006191,
+    "pipeline_hash": "6677225d17725cce4bb62a964c070cb74c145859205477a51104d4c1ce0ea34c",
+    "decision": "accepted",
+    "reason": "{'accuracy': 0.9933333333333333, 'training_cost': -1750, 'simplicity': 3.889453381683558}"
+  },
+  {
+    "timestamp": 1768141081.3502843,
+    "pipeline_hash": "af91b1b51d5f06e644fe2d5f04bd7f3864453fc3cb48aa80e78d0081b416617d",
+    "decision": "accepted",
+    "reason": "{'accuracy': 0.9933333333333333, 'training_cost': -1750, 'simplicity': 3.8945893022329043}"
+  },
+  {
+    "timestamp": 1768141081.3989043,
+    "pipeline_hash": "09f7c64a887baeef11ebe4cdec56bbff10dabdc41d121328ef60faf9f485ff5d",
+    "decision": "accepted",
+    "reason": "{'accuracy': 0.98, 'training_cost': -1750, 'simplicity': 4.689812149921056}"
+  },
+  {
+    "timestamp": 1768141081.5165987,
+    "pipeline_hash": "a7a2269f7bba58cc17d2c8379a14ffcfe3a58db4173e488af0407027e5dc2aa8",
+    "decision": "drift",
+    "reason": "Auto re-evolution triggered"
+  },
+  {
+    "timestamp": 1768141081.5538094,
+    "pipeline_hash": "9b1a44b459513ff2a25ce389293bad6abc79bf525dc43ba7cd680693dcaf0caf",
+    "decision": "seeded",
+    "reason": "Species=conservative"
+  },
+  {
+    "timestamp": 1768141081.6064258,
+    "pipeline_hash": "16267afa7522724f046b823f683f742a2d9ac88f04dc843427b255211b0e88b8",
+    "decision": "seeded",
+    "reason": "Species=aggressive"
+  },
+  {
+    "timestamp": 1768141081.6374736,
+    "pipeline_hash": "66be3e080851995cb288c3d06c2c924989737321f089103ee274689c5b212680",
+    "decision": "seeded",
+    "reason": "Species=balanced"
+  },
+  {
+    "timestamp": 1768141081.6943872,
+    "pipeline_hash": "e9bbc124db1cd002ccfd024aec7053a29845512dde6a09d1416bed6890baf7fc",
+    "decision": "accepted",
+    "reason": "{'accuracy': 0.9533333333333334, 'training_cost': -1750, 'simplicity': 14.260016713096972}"
+  },
+  {
+    "timestamp": 1768141081.790238,
+    "pipeline_hash": "791837f626f7b085671fe344b4df1b96022ca39e3ebf5592f7d5a8a50680fda6",
+    "decision": "accepted",
+    "reason": "{'accuracy': 0.9866666666666667, 'training_cost': -1750, 'simplicity': 17.638699563851127}"
+  },
+  {
+    "timestamp": 1768141081.8360476,
+    "pipeline_hash": "9946af294cc0dbf448769795dc5fae1d43749f824def763b49d61951c5be44be",
+    "decision": "accepted",
+    "reason": "{'accuracy': 0.9866666666666667, 'training_cost': -1750, 'simplicity': 13.730906588233395}"
+  },
+  {
+    "timestamp": 1768141081.8832178,
+    "pipeline_hash": "c4134722357a7a0e2c2c2539acbe05c543719d8601c063bf2dcbc09859573b2e",
+    "decision": "accepted",
+    "reason": "{'accuracy': 0.9866666666666667, 'training_cost': -1750, 'simplicity': 12.264565489830463}"
+  },
+  {
+    "timestamp": 1768141081.9223394,
+    "pipeline_hash": "c3c8249ef3ea03cd3559415171b983afaaf6fa593b8cc8ce7c9ccf80b5716c13",
+    "decision": "accepted",
+    "reason": "{'accuracy': 0.9933333333333333, 'training_cost': -1750, 'simplicity': 15.9436752770146}"
+  },
+  {
+    "timestamp": 1768141081.9605448,
+    "pipeline_hash": "6425e5292a9003e542fc22aeeb5823c3d0b25387ba95d4cf4e2f3577bad4db21",
+    "decision": "accepted",
+    "reason": "{'accuracy': 1.0, 'training_cost': -1750, 'simplicity': 14.725717716516973}"
+  },
+  {
+    "timestamp": 1768141082.0171359,
+    "pipeline_hash": "90ca2ee6529d3284d8e30f0b8e3e2ead48aa2133365fb9e8c1f4342bd9c53c49",
+    "decision": "accepted",
+    "reason": "{'accuracy': 0.9933333333333333, 'training_cost': -1750, 'simplicity': 12.968406597886716}"
+  },
+  {
+    "timestamp": 1768141082.0694022,
+    "pipeline_hash": "e1469252f60b2d380c52935445ba2afddc961badff1e5f1fded46a543d0a1e22",
+    "decision": "accepted",
+    "reason": "{'accuracy': 0.9866666666666667, 'training_cost': -1750, 'simplicity': 14.903212140520363}"
+  },
+  {
+    "timestamp": 1768141082.1094844,
+    "pipeline_hash": "7dfbb2261553ba29ca11c53957167d9d48b9348e07416ddba47a35c18ec9213c",
+    "decision": "accepted",
+    "reason": "{'accuracy': 0.9866666666666667, 'training_cost': -1750, 'simplicity': 12.44936139679494}"
+  },
+  {
+    "timestamp": 1768141082.1676164,
+    "pipeline_hash": "ce06e540768cdc4c6a5032af7672d27af0168c142b1513e94d953357312ce84f",
+    "decision": "accepted",
+    "reason": "{'accuracy': 0.9866666666666667, 'training_cost': -1750, 'simplicity': 10.721274567550438}"
+  },
+  {
+    "timestamp": 1768141082.221813,
+    "pipeline_hash": "642a000e18458a96d5b705d477a0b8c22c7fa55753b56cebfa061e434530f301",
+    "decision": "accepted",
+    "reason": "{'accuracy': 0.9866666666666667, 'training_cost': -1750, 'simplicity': 10.163318465705544}"
+  },
+  {
+    "timestamp": 1768141082.272682,
+    "pipeline_hash": "f41948b2378629ba0ba7eeaf29df59196f8e361de7a7bbd0a6fef4ef36e4b61e",
+    "decision": "accepted",
+    "reason": "{'accuracy': 1.0, 'training_cost': -1750, 'simplicity': 12.468886597453082}"
+  },
+  {
+    "timestamp": 1768141082.3308325,
+    "pipeline_hash": "18ae66c883dd97de136a2be32988433edf952904b94a6f2a8f2c8b2cdfea77e5",
+    "decision": "accepted",
+    "reason": "{'accuracy': 1.0, 'training_cost': -1750, 'simplicity': 2.656543859877227}"
+  },
+  {
+    "timestamp": 1768141082.3793364,
+    "pipeline_hash": "b7b4f02a4c6bbe2605afbfe14d2d2d824182c52873fbffc9d1799805783fa104",
+    "decision": "accepted",
+    "reason": "{'accuracy': 0.9866666666666667, 'training_cost': -1750, 'simplicity': 2.4191559004188266}"
+  },
+  {
+    "timestamp": 1768141082.4290025,
+    "pipeline_hash": "9f988a4e80e7444acdc29a893d76d87a02ef65b450f7688eb1ca7b080db2c143",
+    "decision": "accepted",
+    "reason": "{'accuracy': 1.0, 'training_cost': -1750, 'simplicity': 3.0966827915978943}"
+  },
+  {
+    "timestamp": 1768141082.4856148,
+    "pipeline_hash": "a77276976ac3b5fecf61b0aa35dc20ac16b98ecd48d9cd337b3d83a59ceb4b3e",
+    "decision": "accepted",
+    "reason": "{'accuracy': 0.98, 'training_cost': -1750, 'simplicity': 2.2181910952265698}"
+  },
+  {
+    "timestamp": 1768141082.5331788,
+    "pipeline_hash": "f729ece5bb949061d02bfe6e1a28a760a4558b81e5c2a4469c50df99577a33e4",
+    "decision": "accepted",
+    "reason": "{'accuracy': 0.9933333333333333, 'training_cost': -1750, 'simplicity': 2.3853582043079586}"
+  },
+  {
+    "timestamp": 1768141082.580737,
+    "pipeline_hash": "a391b7810fe259b757f0ab3e430f58425b9cace01938c4bf4b3539227281d34c",
+    "decision": "accepted",
+    "reason": "{'accuracy': 0.9866666666666667, 'training_cost': -1750, 'simplicity': 2.6004851481869244}"
+  },
+  {
+    "timestamp": 1768141082.6294296,
+    "pipeline_hash": "9183785500bfdc536d82b9ce0c1a490af00f770063923b832854886e78ed0587",
+    "decision": "accepted",
+    "reason": "{'accuracy': 0.9933333333333333, 'training_cost': -1750, 'simplicity': 1.8864376378014902}"
+  },
+  {
+    "timestamp": 1768141082.673223,
+    "pipeline_hash": "ae7b4f5ef29a9e3e2f5383e6b9d9debab4b5dc5118a70985fdf9ef7e3604346b",
+    "decision": "accepted",
+    "reason": "{'accuracy': 0.9733333333333334, 'training_cost': -1750, 'simplicity': 1.6677788933996165}"
+  },
+  {
+    "timestamp": 1768141082.7272232,
+    "pipeline_hash": "ad2eb015196ef00914622124035236981f6b6a24dc09d72321b36614e9b563c0",
+    "decision": "accepted",
+    "reason": "{'accuracy': 0.9733333333333334, 'training_cost': -1750, 'simplicity': 1.7800656644936461}"
+  },
+  {
+    "timestamp": 1768141082.7900348,
+    "pipeline_hash": "c89cc9d6c1c81f6ad272df2cb882cb63e9814577316bd67e2dfe8a752c6f8ddb",
+    "decision": "accepted",
+    "reason": "{'accuracy': 0.9866666666666667, 'training_cost': -1750, 'simplicity': 1.9395710557899903}"
+  },
+  {
+    "timestamp": 1768141082.839399,
+    "pipeline_hash": "6d2fb114f799cb0117ea3abaf8c675f180cb512f9eaae7acda7bb83d5f76dc75",
+    "decision": "accepted",
+    "reason": "{'accuracy': 0.9933333333333333, 'training_cost': -1750, 'simplicity': 1.8908135935226615}"
+  },
+  {
+    "timestamp": 1768141082.8848581,
+    "pipeline_hash": "2b0b575ea65555c341d57e3d68d73036b3417ec89cb63b8d1bc9fb754a33560c",
+    "decision": "accepted",
+    "reason": "{'accuracy': 0.9666666666666667, 'training_cost': -1750, 'simplicity': 2.222567350142521}"
+  },
+  {
+    "timestamp": 1768141082.954031,
+    "pipeline_hash": "4262afd9e442f0d200bb26273bbb684bef60695a1c2baa864d83111b042dff90",
+    "decision": "accepted",
+    "reason": "{'accuracy': 0.9866666666666667, 'training_cost': -1750, 'simplicity': 8.214344275902468}"
+  },
+  {
+    "timestamp": 1768141083.0003536,
+    "pipeline_hash": "7681aab59d0428e2c7c8dc2dbc813a5a8970f27f440c0164ced45d6deb297022",
+    "decision": "accepted",
+    "reason": "{'accuracy': 0.9866666666666667, 'training_cost': -1750, 'simplicity': 9.983799707027172}"
+  },
+  {
+    "timestamp": 1768141083.0444884,
+    "pipeline_hash": "b5261e7c06bfbc9f56765fdcd47e1b06fea0d680b14a0f699fd9a6df046058c6",
+    "decision": "accepted",
+    "reason": "{'accuracy': 0.9733333333333334, 'training_cost': -1750, 'simplicity': 6.954458525744319}"
+  },
+  {
+    "timestamp": 1768141083.1267858,
+    "pipeline_hash": "c282b417f34e03237377f56ae324fd00fb05b33e149585f6e73b224ea440023a",
+    "decision": "accepted",
+    "reason": "{'accuracy': 0.96, 'training_cost': -1750, 'simplicity': 6.718826129976377}"
+  },
+  {
+    "timestamp": 1768141083.1797824,
+    "pipeline_hash": "8ffabab973c34e7024f7872540b49ca3d46df74553d27535bf6d4fc822fa1a9a",
+    "decision": "accepted",
+    "reason": "{'accuracy': 0.9866666666666667, 'training_cost': -1750, 'simplicity': 9.165117012267066}"
+  },
+  {
+    "timestamp": 1768141083.2185707,
+    "pipeline_hash": "7b196e1fd191d7d21a87ffb92a6d1a2564344fd5561f3be86ca0a251c590ddf7",
+    "decision": "accepted",
+    "reason": "{'accuracy': 0.9733333333333334, 'training_cost': -1750, 'simplicity': 6.956094840797288}"
+  },
+  {
+    "timestamp": 1768141083.2663512,
+    "pipeline_hash": "729c789038064d182342d782f761892ec632db56db0e7544b301985f125620f6",
+    "decision": "accepted",
+    "reason": "{'accuracy': 0.98, 'training_cost': -1750, 'simplicity': 6.450516150417944}"
+  },
+  {
+    "timestamp": 1768141083.3060644,
+    "pipeline_hash": "ee085a7710e3f3ed606f54ce335bb28f527bede5eb7baf38ae07a0216cf2851a",
+    "decision": "accepted",
+    "reason": "{'accuracy': 0.9733333333333334, 'training_cost': -1750, 'simplicity': 7.025850254698674}"
+  },
+  {
+    "timestamp": 1768141083.345063,
+    "pipeline_hash": "38b161ff23d040cd8dfaf2b0ee8016ebc3955c773401d2c934249596067fd875",
+    "decision": "accepted",
+    "reason": "{'accuracy': 0.9733333333333334, 'training_cost': -1750, 'simplicity': 7.721524521425459}"
+  },
+  {
+    "timestamp": 1768141681.576013,
+    "pipeline_hash": "9b1a44b459513ff2a25ce389293bad6abc79bf525dc43ba7cd680693dcaf0caf",
+    "decision": "seeded",
+    "reason": "Species=conservative"
+  },
+  {
+    "timestamp": 1768141681.6121705,
+    "pipeline_hash": "16267afa7522724f046b823f683f742a2d9ac88f04dc843427b255211b0e88b8",
+    "decision": "seeded",
+    "reason": "Species=aggressive"
+  },
+  {
+    "timestamp": 1768141681.6501095,
+    "pipeline_hash": "66be3e080851995cb288c3d06c2c924989737321f089103ee274689c5b212680",
+    "decision": "seeded",
+    "reason": "Species=balanced"
+  },
+  {
+    "timestamp": 1768141681.716099,
+    "pipeline_hash": "bf86596c942e848d139116ba02c308c93f6d74c25d33fa794b7ab7bb34ef32e1",
+    "decision": "accepted",
+    "reason": "{'accuracy': 0.9666666666666667, 'training_cost': -1750, 'simplicity': 17.552685286205556}"
+  },
+  {
+    "timestamp": 1768141681.7703166,
+    "pipeline_hash": "9047513bc42fc0392fefbcbb9d3acfa98676a2a56aba1243dc4f45a29f78e082",
+    "decision": "accepted",
+    "reason": "{'accuracy': 1.0, 'training_cost': -1750, 'simplicity': 14.590283857074349}"
+  },
+  {
+    "timestamp": 1768141681.821024,
+    "pipeline_hash": "bb275edcb0ce4637035cdd18aa48feb5e89611a58be1b27727eecfde88fca7f3",
+    "decision": "accepted",
+    "reason": "{'accuracy': 0.9866666666666667, 'training_cost': -1750, 'simplicity': 17.991996581172675}"
+  },
+  {
+    "timestamp": 1768141681.8819742,
+    "pipeline_hash": "a79268541cf64151fa31e9270d17516ea6114360ad572c5b4fe3925561a2837b",
+    "decision": "accepted",
+    "reason": "{'accuracy': 0.98, 'training_cost': -1750, 'simplicity': 13.879046079418348}"
+  },
+  {
+    "timestamp": 1768141681.9323816,
+    "pipeline_hash": "2a2b38d4a30b0e96d843cf39c039b0097be98817998a368a1f884dc0a3c1de97",
+    "decision": "accepted",
+    "reason": "{'accuracy': 1.0, 'training_cost': -1750, 'simplicity': 10.089603678420318}"
+  },
+  {
+    "timestamp": 1768141681.9802542,
+    "pipeline_hash": "6487520ed0d6ab99d5951ca241563b2b5a763128cc0d3f67aa95adbc9a4da331",
+    "decision": "accepted",
+    "reason": "{'accuracy': 0.9933333333333333, 'training_cost': -1750, 'simplicity': 11.264594207066557}"
+  },
+  {
+    "timestamp": 1768141682.0416386,
+    "pipeline_hash": "9248566da8dbf8f1b30c9dce3e4e7a5fac4123829873c358de5a801d4f3ee3d1",
+    "decision": "accepted",
+    "reason": "{'accuracy': 0.9933333333333333, 'training_cost': -1750, 'simplicity': 17.727886802292872}"
+  },
+  {
+    "timestamp": 1768141682.0900097,
+    "pipeline_hash": "8055db93a7a494ce34ed857824bd090b639b64240c0cdade8c15620863de16f6",
+    "decision": "accepted",
+    "reason": "{'accuracy': 0.9866666666666667, 'training_cost': -1750, 'simplicity': 16.117158985470518}"
+  },
+  {
+    "timestamp": 1768141682.1520965,
+    "pipeline_hash": "fb5971b66af7edb2a5222f2922edb2ee8bd5fb9965059d304d2491de0bc14f90",
+    "decision": "accepted",
+    "reason": "{'accuracy': 0.98, 'training_cost': -1750, 'simplicity': 17.756414631089413}"
+  },
+  {
+    "timestamp": 1768141682.2109332,
+    "pipeline_hash": "1e9d33e45e34afbeaeda40476a59b4adb8e9418fa775b0c758bc681c5eec3144",
+    "decision": "accepted",
+    "reason": "{'accuracy': 1.0, 'training_cost': -1750, 'simplicity': 7.430494043769108}"
+  },
+  {
+    "timestamp": 1768141682.259274,
+    "pipeline_hash": "2700667f7dbbdeb7e375331b6ba0b67aceaae500d37e8e864b7b7d70a8b722b8",
+    "decision": "accepted",
+    "reason": "{'accuracy': 1.0, 'training_cost': -1750, 'simplicity': 7.929833380671916}"
+  },
+  {
+    "timestamp": 1768141682.3081896,
+    "pipeline_hash": "be991206aa06dccc059dc4f1d0634b8d1b9ae700c85ba9037e5651b36293f5c2",
+    "decision": "accepted",
+    "reason": "{'accuracy': 0.9933333333333333, 'training_cost': -1750, 'simplicity': 8.239684652190252}"
+  },
+  {
+    "timestamp": 1768141682.3601875,
+    "pipeline_hash": "35b5f758e590034616a135050a8824179db45b8bb2e2f9b38c8c011d9e42fc2d",
+    "decision": "accepted",
+    "reason": "{'accuracy': 0.9933333333333333, 'training_cost': -1750, 'simplicity': 12.62174745450977}"
+  },
+  {
+    "timestamp": 1768141682.4045749,
+    "pipeline_hash": "321bae9c1f9ae8e24e648a7c530a3e25e823b0a226d48912abed96062b059425",
+    "decision": "accepted",
+    "reason": "{'accuracy': 0.9866666666666667, 'training_cost': -1750, 'simplicity': 12.853283648212413}"
+  },
+  {
+    "timestamp": 1768141682.452233,
+    "pipeline_hash": "2cefad4ecbdfbad99ef9089d090ba77a703c3c5ddf15fe36ef79d93f2d4b125f",
+    "decision": "accepted",
+    "reason": "{'accuracy': 0.9933333333333333, 'training_cost': -1750, 'simplicity': 13.142204207062361}"
+  },
+  {
+    "timestamp": 1768141682.5189006,
+    "pipeline_hash": "64a36c648c489a1ae0a5ca004985b24f721111212ee68c6926f25ecb425e891d",
+    "decision": "accepted",
+    "reason": "{'accuracy': 1.0, 'training_cost': -1750, 'simplicity': 15.591130034459917}"
+  },
+  {
+    "timestamp": 1768141682.5740662,
+    "pipeline_hash": "4c49a7d0c73f60b2a7e6b3e2cdb9fc8a9c607caa1cdd094a5a99fc46b75ae03e",
+    "decision": "accepted",
+    "reason": "{'accuracy': 1.0, 'training_cost': -1750, 'simplicity': 12.010462646646657}"
+  },
+  {
+    "timestamp": 1768141682.642047,
+    "pipeline_hash": "a7a2269f7bba58cc17d2c8379a14ffcfe3a58db4173e488af0407027e5dc2aa8",
+    "decision": "accepted",
+    "reason": "{'accuracy': 1.0, 'training_cost': -1750, 'simplicity': 16.89342437925739}"
+  },
+  {
+    "timestamp": 1768141682.6987774,
+    "pipeline_hash": "f69d52ca9a79ee369ed8d232f0199cce38a37479e81039f42065b4fec427d95d",
+    "decision": "accepted",
+    "reason": "{'accuracy': 1.0, 'training_cost': -1750, 'simplicity': 3.179574853483477}"
+  },
+  {
+    "timestamp": 1768141682.7587118,
+    "pipeline_hash": "2cedd718248176644b5a4cd31f1a8fde8f112467dcfd29740a57dedf9c6a4b14",
+    "decision": "accepted",
+    "reason": "{'accuracy': 0.9866666666666667, 'training_cost': -1750, 'simplicity': 2.5604332354302395}"
+  },
+  {
+    "timestamp": 1768141682.8018043,
+    "pipeline_hash": "3c81ffb8a861ec1ab7aaf403152726c512e7dbf3cc33e8d188f7176f0e736d55",
+    "decision": "accepted",
+    "reason": "{'accuracy': 0.9733333333333334, 'training_cost': -1750, 'simplicity': 2.4422423840919425}"
+  },
+  {
+    "timestamp": 1768141682.8565354,
+    "pipeline_hash": "2106410ab3582fdb872e2c670595eef3fd0f930cf957dd452f2381c069d32fa0",
+    "decision": "accepted",
+    "reason": "{'accuracy': 0.9866666666666667, 'training_cost': -1750, 'simplicity': 2.9927858655636608}"
+  },
+  {
+    "timestamp": 1768141682.8957014,
+    "pipeline_hash": "60d1377c60ae4329f1a0c459858bf3dba3a20f0c182de837ad9369a86a15da83",
+    "decision": "accepted",
+    "reason": "{'accuracy': 0.9866666666666667, 'training_cost': -1750, 'simplicity': 3.0590480570691896}"
+  },
+  {
+    "timestamp": 1768141682.9587498,
+    "pipeline_hash": "8ba5121e82f94c7b5d811629c68e231bed9099af531ae22559ead8d073848fa0",
+    "decision": "accepted",
+    "reason": "{'accuracy': 0.9733333333333334, 'training_cost': -1750, 'simplicity': 2.247522168641743}"
+  },
+  {
+    "timestamp": 1768141683.0431626,
+    "pipeline_hash": "6f34cb5b302db5a4ee9e144f9eb34dc12f4b053094dd5c432e590515d6f6606a",
+    "decision": "accepted",
+    "reason": "{'accuracy': 0.9666666666666667, 'training_cost': -1750, 'simplicity': 2.120325220656703}"
+  },
+  {
+    "timestamp": 1768141683.1185808,
+    "pipeline_hash": "6e443a974ef8b75242d4c7aad7346e80d17673dad34d2e478b871c82812bb1a2",
+    "decision": "accepted",
+    "reason": "{'accuracy': 0.9933333333333333, 'training_cost': -1750, 'simplicity': 2.3737913057002458}"
+  },
+  {
+    "timestamp": 1768141683.1807394,
+    "pipeline_hash": "70c0e81797d2cf18ad805c4ffc1f346b6d4b033aced7a69d4fbb2b6916536712",
+    "decision": "accepted",
+    "reason": "{'accuracy': 0.9733333333333334, 'training_cost': -1750, 'simplicity': 2.956237294577861}"
+  },
+  {
+    "timestamp": 1768141683.2469175,
+    "pipeline_hash": "45192247baf6e4166f3851bfd077eb2fd125f6e10c95ca507c659e1c3cecd713",
+    "decision": "accepted",
+    "reason": "{'accuracy': 0.98, 'training_cost': -1750, 'simplicity': 8.977070550562287}"
+  },
+  {
+    "timestamp": 1768141683.292921,
+    "pipeline_hash": "e096f5bedcddc0cf38037cacc751fb56ac7835ff281c9c3dea5feced3fc8aa6a",
+    "decision": "accepted",
+    "reason": "{'accuracy': 0.98, 'training_cost': -1750, 'simplicity': 6.69967031310063}"
+  },
+  {
+    "timestamp": 1768141683.3372767,
+    "pipeline_hash": "b05a364a73557768b1868e8bc203703d9dcd7335bbde98ef1611f124ebf46c36",
+    "decision": "accepted",
+    "reason": "{'accuracy': 0.9933333333333333, 'training_cost': -1750, 'simplicity': 6.977189590143067}"
+  },
+  {
+    "timestamp": 1768141683.39089,
+    "pipeline_hash": "87b30532b0422ba67c620b5e6fcf0a529548552eeccf82bff59bf528197af668",
+    "decision": "accepted",
+    "reason": "{'accuracy': 0.9933333333333333, 'training_cost': -1750, 'simplicity': 7.881873351220617}"
+  },
+  {
+    "timestamp": 1768141683.4448347,
+    "pipeline_hash": "34883b35096348fcf3db95acc0600fca45fbc24a3ca5a75430b27bff5d3be9c4",
+    "decision": "accepted",
+    "reason": "{'accuracy': 0.9733333333333334, 'training_cost': -1750, 'simplicity': 6.335493359468797}"
+  },
+  {
+    "timestamp": 1768141683.4861789,
+    "pipeline_hash": "42c8e3b4189833b1a1fe0f7619c5d6a1b29675a2082fc4b246893f676aa39239",
+    "decision": "accepted",
+    "reason": "{'accuracy': 0.98, 'training_cost': -1750, 'simplicity': 7.575310060057562}"
+  },
+  {
+    "timestamp": 1768141683.536576,
+    "pipeline_hash": "12915bce87d802a21dafb3ffb44ade25b2eff62753b11409f97a0764d83682d3",
+    "decision": "accepted",
+    "reason": "{'accuracy': 1.0, 'training_cost': -1750, 'simplicity': 5.226350652590382}"
+  },
+  {
+    "timestamp": 1768141683.5762482,
+    "pipeline_hash": "a8d990747ff0ff9ee0308095cf596ade951c89a03eeb8d3cb34ed97e62398a99",
+    "decision": "accepted",
+    "reason": "{'accuracy': 0.9933333333333333, 'training_cost': -1750, 'simplicity': 4.75218078328695}"
+  },
+  {
+    "timestamp": 1768141683.6265292,
+    "pipeline_hash": "71f1abed561eee6334ff649329d0bea9314d2f9291b4350176af8ac83ed140b2",
+    "decision": "accepted",
+    "reason": "{'accuracy': 0.98, 'training_cost': -1750, 'simplicity': 6.736740781931124}"
+  },
+  {
+    "timestamp": 1768141683.6895697,
+    "pipeline_hash": "bdd6ecba51fbe12f29596f4d26f21096259ca223857e1bf3acd4ba7fbb979063",
+    "decision": "accepted",
+    "reason": "{'accuracy': 0.9866666666666667, 'training_cost': -1750, 'simplicity': 7.261183934420292}"
+  },
+  {
+    "timestamp": 1768141683.7332766,
+    "pipeline_hash": "dd324c736bf021ba54aeca9d7f2a8565501edad94137319eda84172f737d9d25",
+    "decision": "accepted",
+    "reason": "{'accuracy': 1.0, 'training_cost': -1750, 'simplicity': 7.023100188202102}"
+  },
+  {
+    "timestamp": 1768141683.7721403,
+    "pipeline_hash": "75c6a2af3cd4150475d2d1fb1367b5e5ad9a41f454df18f6b750218d99bfe1cf",
+    "decision": "accepted",
+    "reason": "{'accuracy': 0.9933333333333333, 'training_cost': -1750, 'simplicity': 6.626036034305142}"
+  },
+  {
+    "timestamp": 1768141683.8161373,
+    "pipeline_hash": "6677225d17725cce4bb62a964c070cb74c145859205477a51104d4c1ce0ea34c",
+    "decision": "accepted",
+    "reason": "{'accuracy': 0.9933333333333333, 'training_cost': -1750, 'simplicity': 3.889453381683558}"
+  },
+  {
+    "timestamp": 1768141683.853637,
+    "pipeline_hash": "af91b1b51d5f06e644fe2d5f04bd7f3864453fc3cb48aa80e78d0081b416617d",
+    "decision": "accepted",
+    "reason": "{'accuracy': 0.9933333333333333, 'training_cost': -1750, 'simplicity': 3.8945893022329043}"
+  },
+  {
+    "timestamp": 1768141683.890506,
+    "pipeline_hash": "09f7c64a887baeef11ebe4cdec56bbff10dabdc41d121328ef60faf9f485ff5d",
+    "decision": "accepted",
+    "reason": "{'accuracy': 0.98, 'training_cost': -1750, 'simplicity': 4.689812149921056}"
+  },
+  {
+    "timestamp": 1768141683.9626713,
+    "pipeline_hash": "a7a2269f7bba58cc17d2c8379a14ffcfe3a58db4173e488af0407027e5dc2aa8",
+    "decision": "drift",
+    "reason": "Auto re-evolution triggered"
+  },
+  {
+    "timestamp": 1768141683.9964461,
+    "pipeline_hash": "9b1a44b459513ff2a25ce389293bad6abc79bf525dc43ba7cd680693dcaf0caf",
+    "decision": "seeded",
+    "reason": "Species=conservative"
+  },
+  {
+    "timestamp": 1768141684.0316203,
+    "pipeline_hash": "16267afa7522724f046b823f683f742a2d9ac88f04dc843427b255211b0e88b8",
+    "decision": "seeded",
+    "reason": "Species=aggressive"
+  },
+  {
+    "timestamp": 1768141684.0662534,
+    "pipeline_hash": "66be3e080851995cb288c3d06c2c924989737321f089103ee274689c5b212680",
+    "decision": "seeded",
+    "reason": "Species=balanced"
+  },
+  {
+    "timestamp": 1768141684.1325893,
+    "pipeline_hash": "e9bbc124db1cd002ccfd024aec7053a29845512dde6a09d1416bed6890baf7fc",
+    "decision": "accepted",
+    "reason": "{'accuracy': 0.9533333333333334, 'training_cost': -1750, 'simplicity': 14.260016713096972}"
+  },
+  {
+    "timestamp": 1768141684.1840029,
+    "pipeline_hash": "791837f626f7b085671fe344b4df1b96022ca39e3ebf5592f7d5a8a50680fda6",
+    "decision": "accepted",
+    "reason": "{'accuracy': 0.9866666666666667, 'training_cost': -1750, 'simplicity': 17.638699563851127}"
+  },
+  {
+    "timestamp": 1768141684.2302809,
+    "pipeline_hash": "9946af294cc0dbf448769795dc5fae1d43749f824def763b49d61951c5be44be",
+    "decision": "accepted",
+    "reason": "{'accuracy': 0.9866666666666667, 'training_cost': -1750, 'simplicity': 13.730906588233395}"
+  },
+  {
+    "timestamp": 1768141684.3361511,
+    "pipeline_hash": "c4134722357a7a0e2c2c2539acbe05c543719d8601c063bf2dcbc09859573b2e",
+    "decision": "accepted",
+    "reason": "{'accuracy': 0.9866666666666667, 'training_cost': -1750, 'simplicity': 12.264565489830463}"
+  },
+  {
+    "timestamp": 1768141684.3998458,
+    "pipeline_hash": "c3c8249ef3ea03cd3559415171b983afaaf6fa593b8cc8ce7c9ccf80b5716c13",
+    "decision": "accepted",
+    "reason": "{'accuracy': 0.9933333333333333, 'training_cost': -1750, 'simplicity': 15.9436752770146}"
+  },
+  {
+    "timestamp": 1768141684.4402106,
+    "pipeline_hash": "6425e5292a9003e542fc22aeeb5823c3d0b25387ba95d4cf4e2f3577bad4db21",
+    "decision": "accepted",
+    "reason": "{'accuracy': 1.0, 'training_cost': -1750, 'simplicity': 14.725717716516973}"
+  },
+  {
+    "timestamp": 1768141684.4872985,
+    "pipeline_hash": "90ca2ee6529d3284d8e30f0b8e3e2ead48aa2133365fb9e8c1f4342bd9c53c49",
+    "decision": "accepted",
+    "reason": "{'accuracy': 0.9933333333333333, 'training_cost': -1750, 'simplicity': 12.968406597886716}"
+  },
+  {
+    "timestamp": 1768141684.5348818,
+    "pipeline_hash": "e1469252f60b2d380c52935445ba2afddc961badff1e5f1fded46a543d0a1e22",
+    "decision": "accepted",
+    "reason": "{'accuracy': 0.9866666666666667, 'training_cost': -1750, 'simplicity': 14.903212140520363}"
+  },
+  {
+    "timestamp": 1768141684.582036,
+    "pipeline_hash": "7dfbb2261553ba29ca11c53957167d9d48b9348e07416ddba47a35c18ec9213c",
+    "decision": "accepted",
+    "reason": "{'accuracy': 0.9866666666666667, 'training_cost': -1750, 'simplicity': 12.44936139679494}"
+  },
+  {
+    "timestamp": 1768141684.6311836,
+    "pipeline_hash": "ce06e540768cdc4c6a5032af7672d27af0168c142b1513e94d953357312ce84f",
+    "decision": "accepted",
+    "reason": "{'accuracy': 0.9866666666666667, 'training_cost': -1750, 'simplicity': 10.721274567550438}"
+  },
+  {
+    "timestamp": 1768141684.6706896,
+    "pipeline_hash": "642a000e18458a96d5b705d477a0b8c22c7fa55753b56cebfa061e434530f301",
+    "decision": "accepted",
+    "reason": "{'accuracy': 0.9866666666666667, 'training_cost': -1750, 'simplicity': 10.163318465705544}"
+  },
+  {
+    "timestamp": 1768141684.7157753,
+    "pipeline_hash": "f41948b2378629ba0ba7eeaf29df59196f8e361de7a7bbd0a6fef4ef36e4b61e",
+    "decision": "accepted",
+    "reason": "{'accuracy': 1.0, 'training_cost': -1750, 'simplicity': 12.468886597453082}"
+  },
+  {
+    "timestamp": 1768141684.7651637,
+    "pipeline_hash": "18ae66c883dd97de136a2be32988433edf952904b94a6f2a8f2c8b2cdfea77e5",
+    "decision": "accepted",
+    "reason": "{'accuracy': 1.0, 'training_cost': -1750, 'simplicity': 2.656543859877227}"
+  },
+  {
+    "timestamp": 1768141684.809223,
+    "pipeline_hash": "b7b4f02a4c6bbe2605afbfe14d2d2d824182c52873fbffc9d1799805783fa104",
+    "decision": "accepted",
+    "reason": "{'accuracy': 0.9866666666666667, 'training_cost': -1750, 'simplicity': 2.4191559004188266}"
+  },
+  {
+    "timestamp": 1768141684.85008,
+    "pipeline_hash": "9f988a4e80e7444acdc29a893d76d87a02ef65b450f7688eb1ca7b080db2c143",
+    "decision": "accepted",
+    "reason": "{'accuracy': 1.0, 'training_cost': -1750, 'simplicity': 3.0966827915978943}"
+  },
+  {
+    "timestamp": 1768141684.8947082,
+    "pipeline_hash": "a77276976ac3b5fecf61b0aa35dc20ac16b98ecd48d9cd337b3d83a59ceb4b3e",
+    "decision": "accepted",
+    "reason": "{'accuracy': 0.98, 'training_cost': -1750, 'simplicity': 2.2181910952265698}"
+  },
+  {
+    "timestamp": 1768141684.9329915,
+    "pipeline_hash": "f729ece5bb949061d02bfe6e1a28a760a4558b81e5c2a4469c50df99577a33e4",
+    "decision": "accepted",
+    "reason": "{'accuracy': 0.9933333333333333, 'training_cost': -1750, 'simplicity': 2.3853582043079586}"
+  },
+  {
+    "timestamp": 1768141684.969414,
+    "pipeline_hash": "a391b7810fe259b757f0ab3e430f58425b9cace01938c4bf4b3539227281d34c",
+    "decision": "accepted",
+    "reason": "{'accuracy': 0.9866666666666667, 'training_cost': -1750, 'simplicity': 2.6004851481869244}"
+  },
+  {
+    "timestamp": 1768141685.0268164,
+    "pipeline_hash": "9183785500bfdc536d82b9ce0c1a490af00f770063923b832854886e78ed0587",
+    "decision": "accepted",
+    "reason": "{'accuracy': 0.9933333333333333, 'training_cost': -1750, 'simplicity': 1.8864376378014902}"
+  },
+  {
+    "timestamp": 1768141685.0733929,
+    "pipeline_hash": "ae7b4f5ef29a9e3e2f5383e6b9d9debab4b5dc5118a70985fdf9ef7e3604346b",
+    "decision": "accepted",
+    "reason": "{'accuracy': 0.9733333333333334, 'training_cost': -1750, 'simplicity': 1.6677788933996165}"
+  },
+  {
+    "timestamp": 1768141685.1149552,
+    "pipeline_hash": "ad2eb015196ef00914622124035236981f6b6a24dc09d72321b36614e9b563c0",
+    "decision": "accepted",
+    "reason": "{'accuracy': 0.9733333333333334, 'training_cost': -1750, 'simplicity': 1.7800656644936461}"
+  },
+  {
+    "timestamp": 1768141685.1694539,
+    "pipeline_hash": "c89cc9d6c1c81f6ad272df2cb882cb63e9814577316bd67e2dfe8a752c6f8ddb",
+    "decision": "accepted",
+    "reason": "{'accuracy': 0.9866666666666667, 'training_cost': -1750, 'simplicity': 1.9395710557899903}"
+  },
+  {
+    "timestamp": 1768141685.218866,
+    "pipeline_hash": "6d2fb114f799cb0117ea3abaf8c675f180cb512f9eaae7acda7bb83d5f76dc75",
+    "decision": "accepted",
+    "reason": "{'accuracy': 0.9933333333333333, 'training_cost': -1750, 'simplicity': 1.8908135935226615}"
+  },
+  {
+    "timestamp": 1768141685.2747622,
+    "pipeline_hash": "2b0b575ea65555c341d57e3d68d73036b3417ec89cb63b8d1bc9fb754a33560c",
+    "decision": "accepted",
+    "reason": "{'accuracy': 0.9666666666666667, 'training_cost': -1750, 'simplicity': 2.222567350142521}"
+  },
+  {
+    "timestamp": 1768141685.3508086,
+    "pipeline_hash": "4262afd9e442f0d200bb26273bbb684bef60695a1c2baa864d83111b042dff90",
+    "decision": "accepted",
+    "reason": "{'accuracy': 0.9866666666666667, 'training_cost': -1750, 'simplicity': 8.214344275902468}"
+  },
+  {
+    "timestamp": 1768141685.4021988,
+    "pipeline_hash": "7681aab59d0428e2c7c8dc2dbc813a5a8970f27f440c0164ced45d6deb297022",
+    "decision": "accepted",
+    "reason": "{'accuracy': 0.9866666666666667, 'training_cost': -1750, 'simplicity': 9.983799707027172}"
+  },
+  {
+    "timestamp": 1768141685.4640603,
+    "pipeline_hash": "b5261e7c06bfbc9f56765fdcd47e1b06fea0d680b14a0f699fd9a6df046058c6",
+    "decision": "accepted",
+    "reason": "{'accuracy': 0.9733333333333334, 'training_cost': -1750, 'simplicity': 6.954458525744319}"
+  },
+  {
+    "timestamp": 1768141685.5282779,
+    "pipeline_hash": "c282b417f34e03237377f56ae324fd00fb05b33e149585f6e73b224ea440023a",
+    "decision": "accepted",
+    "reason": "{'accuracy': 0.96, 'training_cost': -1750, 'simplicity': 6.718826129976377}"
+  },
+  {
+    "timestamp": 1768141685.5689595,
+    "pipeline_hash": "8ffabab973c34e7024f7872540b49ca3d46df74553d27535bf6d4fc822fa1a9a",
+    "decision": "accepted",
+    "reason": "{'accuracy': 0.9866666666666667, 'training_cost': -1750, 'simplicity': 9.165117012267066}"
+  },
+  {
+    "timestamp": 1768141685.6188066,
+    "pipeline_hash": "7b196e1fd191d7d21a87ffb92a6d1a2564344fd5561f3be86ca0a251c590ddf7",
+    "decision": "accepted",
+    "reason": "{'accuracy': 0.9733333333333334, 'training_cost': -1750, 'simplicity': 6.956094840797288}"
+  },
+  {
+    "timestamp": 1768141685.6829712,
+    "pipeline_hash": "729c789038064d182342d782f761892ec632db56db0e7544b301985f125620f6",
+    "decision": "accepted",
+    "reason": "{'accuracy': 0.98, 'training_cost': -1750, 'simplicity': 6.450516150417944}"
+  },
+  {
+    "timestamp": 1768141685.7269795,
+    "pipeline_hash": "ee085a7710e3f3ed606f54ce335bb28f527bede5eb7baf38ae07a0216cf2851a",
+    "decision": "accepted",
+    "reason": "{'accuracy': 0.9733333333333334, 'training_cost': -1750, 'simplicity': 7.025850254698674}"
+  },
+  {
+    "timestamp": 1768141685.7745633,
+    "pipeline_hash": "38b161ff23d040cd8dfaf2b0ee8016ebc3955c773401d2c934249596067fd875",
+    "decision": "accepted",
+    "reason": "{'accuracy': 0.9733333333333334, 'training_cost': -1750, 'simplicity': 7.721524521425459}"
+  }
+]
